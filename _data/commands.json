@@ -964,7 +964,7 @@
     },
     "description": null,
     "name": "Colony wealth",
-    "usage": "!богатсво",
+    "usage": "!wealth",
     "userLevel": "Anyone",
     "shortcut": false
   },

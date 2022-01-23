@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -23,7 +23,7 @@
         ]
       },
       "defName": "Nudist",
-      "name": "нудист",
+      "name": "nudist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -53,7 +53,7 @@
         ]
       },
       "defName": "Bloodlust",
-      "name": "кровожадность",
+      "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -66,8 +66,8 @@
         "x200% global certainty loss factor"
       ],
       "conflicts": [
-        "грубость",
-        "психопатия"
+        "abrasive",
+        "psychopath"
       ],
       "bypassLimit": false,
       "data": {
@@ -77,15 +77,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "грубость",
-          "психопатия"
+          "abrasive",
+          "psychopath"
         ],
         "stats": [
           "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
-      "name": "доброта",
+      "name": "kind",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -95,7 +95,8 @@
     {
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
-        "Morbid meditation focus type allowed."
+        "Morbid meditation focus type allowed.",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -111,11 +112,12 @@
 
         ],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbid meditation focus type allowed.",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Psychopath",
-      "name": "психопатия",
+      "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -145,7 +147,7 @@
         ]
       },
       "defName": "Cannibal",
-      "name": "каннибализм",
+      "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -175,7 +177,7 @@
         ]
       },
       "defName": "Abrasive",
-      "name": "грубость",
+      "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -185,15 +187,16 @@
     {
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
-        "+75% эффективность обучения",
-        "+12% порог нервного срыва"
+        "+75% global learning factor",
+        "+12% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
-        "железныенервы",
-        "стрессоустойчивость",
-        "нервозность",
-        "эмоциональнаянестабильность",
-        "медленнаяобучаемость"
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "slowlearner"
       ],
       "bypassLimit": false,
       "data": {
@@ -203,19 +206,20 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "железныенервы",
-          "стрессоустойчивость",
-          "нервозность",
-          "эмоциональнаянестабильность",
-          "медленнаяобучаемость"
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "slowlearner"
         ],
         "stats": [
-          "+75% эффективность обучения",
-          "+12% порог нервного срыва"
+          "+75% global learning factor",
+          "+12% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "TooSmart",
-      "name": "гореотума",
+      "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -225,15 +229,15 @@
     {
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
-        "Стрелковый азарт inspiration disabled.",
-        "+4 Ближний бой",
-        "-4 Дальний бой",
-        "+4.0 шанс удара врукопашную"
+        "Shoot frenzy inspiration disabled.",
+        "+4 melee",
+        "-4 shooting",
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
-        "аккуратныйстрелок",
-        "беспечныйстрелок",
-        "хлюпик"
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
@@ -243,19 +247,19 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "аккуратныйстрелок",
-          "беспечныйстрелок",
-          "хлюпик"
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
         ],
         "stats": [
-          "Стрелковый азарт inspiration disabled.",
-          "+4 Ближний бой",
-          "-4 Дальний бой",
-          "+4.0 шанс удара врукопашную"
+          "Shoot frenzy inspiration disabled.",
+          "+4 melee",
+          "-4 shooting",
+          "+4.0 melee hit chance"
         ]
       },
       "defName": "Brawler",
-      "name": "драчливость",
+      "name": "brawler",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -268,7 +272,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-        "хлюпик"
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
@@ -278,14 +282,14 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "хлюпик"
+          "wimp"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Masochist",
-      "name": "мазохизм",
+      "name": "masochist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -315,7 +319,7 @@
         ]
       },
       "defName": "NightOwl",
-      "name": "сова",
+      "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -328,8 +332,8 @@
 
       ],
       "conflicts": [
-        "аскетизм",
-        "завистливость"
+        "ascetic",
+        "jealous"
       ],
       "bypassLimit": false,
       "data": {
@@ -339,15 +343,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "аскетизм",
-          "завистливость"
+          "ascetic",
+          "jealous"
         ],
         "stats": [
 
         ]
       },
       "defName": "Greedy",
-      "name": "снобизм",
+      "name": "greedy",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -360,8 +364,8 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-        "аскетизм",
-        "снобизм"
+        "ascetic",
+        "greedy"
       ],
       "bypassLimit": false,
       "data": {
@@ -371,15 +375,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "аскетизм",
-          "снобизм"
+          "ascetic",
+          "greedy"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Jealous",
-      "name": "завистливость",
+      "name": "jealous",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -390,12 +394,13 @@
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
         "Artistic meditation focus type disabled.",
-        "Minimal meditation focus type allowed."
+        "Minimal meditation focus type allowed.",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
-        "снобизм",
-        "завистливость",
-        "обжора"
+        "greedy",
+        "jealous",
+        "gourmand"
       ],
       "bypassLimit": false,
       "data": {
@@ -405,17 +410,18 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "снобизм",
-          "завистливость",
-          "обжора"
+          "greedy",
+          "jealous",
+          "gourmand"
         ],
         "stats": [
           "Artistic meditation focus type disabled.",
-          "Minimal meditation focus type allowed."
+          "Minimal meditation focus type allowed.",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Ascetic",
-      "name": "аскетизм",
+      "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -445,7 +451,7 @@
         ]
       },
       "defName": "Gay",
-      "name": "гомосексуальность",
+      "name": "gay",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -475,7 +481,7 @@
         ]
       },
       "defName": "Bisexual",
-      "name": "бисексуальность",
+      "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -505,7 +511,7 @@
         ]
       },
       "defName": "Asexual",
-      "name": "асексуальность",
+      "name": "asexual",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -535,7 +541,7 @@
         ]
       },
       "defName": "AnnoyingVoice",
-      "name": "противныйголос",
+      "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -565,7 +571,7 @@
         ]
       },
       "defName": "CreepyBreathing",
-      "name": "жутковатоедыхание",
+      "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -575,6 +581,7 @@
     {
       "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
+        "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [
@@ -591,11 +598,12 @@
 
         ],
         "stats": [
+          "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
       "defName": "Pyromaniac",
-      "name": "пиромания",
+      "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -605,11 +613,12 @@
     {
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
-        "-60% порог переносимости боли"
+        "-60% pain shock threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
-        "драчливость",
-        "мазохизм"
+        "brawler",
+        "masochist"
       ],
       "bypassLimit": false,
       "data": {
@@ -619,15 +628,16 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "драчливость",
-          "мазохизм"
+          "brawler",
+          "masochist"
         ],
         "stats": [
-          "-60% порог переносимости боли"
+          "-60% pain shock threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Wimp",
-      "name": "хлюпик",
+      "name": "wimp",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -637,8 +647,8 @@
     {
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+15.0 шанс уворота в рукопашной",
-        "x10% шанс активации ловушек"
+        "+15.0 melee dodge chance",
+        "x10% trap spring chance"
       ],
       "conflicts": [
 
@@ -654,12 +664,12 @@
 
         ],
         "stats": [
-          "+15.0 шанс уворота в рукопашной",
-          "x10% шанс активации ловушек"
+          "+15.0 melee dodge chance",
+          "x10% trap spring chance"
         ]
       },
       "defName": "Nimble",
-      "name": "ловкость",
+      "name": "nimble",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -669,7 +679,7 @@
     {
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
-        "+75% эффективность обучения"
+        "+75% global learning factor"
       ],
       "conflicts": [
 
@@ -685,11 +695,11 @@
 
         ],
         "stats": [
-          "+75% эффективность обучения"
+          "+75% global learning factor"
         ]
       },
       "defName": "FastLearner",
-      "name": "быстраяобучаемость",
+      "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -699,10 +709,11 @@
     {
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
-        "-75% эффективность обучения"
+        "-75% global learning factor",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
-        "гореотума"
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -712,14 +723,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "гореотума"
+          "toosmart"
         ],
         "stats": [
-          "-75% эффективность обучения"
+          "-75% global learning factor",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "SlowLearner",
-      "name": "медленнаяобучаемость",
+      "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -749,7 +761,7 @@
         ]
       },
       "defName": "Undergrounder",
-      "name": "подземник",
+      "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -762,7 +774,7 @@
 
       ],
       "conflicts": [
-        "биоконсерватор"
+        "bodypurist"
       ],
       "bypassLimit": false,
       "data": {
@@ -772,14 +784,14 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "биоконсерватор"
+          "bodypurist"
         ],
         "stats": [
 
         ]
       },
       "defName": "Transhumanist",
-      "name": "трансгуманист",
+      "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -792,7 +804,7 @@
 
       ],
       "conflicts": [
-        "трансгуманист"
+        "bodymodder"
       ],
       "bypassLimit": false,
       "data": {
@@ -802,14 +814,14 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "трансгуманист"
+          "bodymodder"
         ],
         "stats": [
 
         ]
       },
       "defName": "BodyPurist",
-      "name": "биоконсерватор",
+      "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -839,7 +851,7 @@
         ]
       },
       "defName": "DislikesMen",
-      "name": "мужененависть",
+      "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -869,7 +881,7 @@
         ]
       },
       "defName": "DislikesWomen",
-      "name": "женоненависть",
+      "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -899,7 +911,7 @@
         ]
       },
       "defName": "GreatMemory",
-      "name": "хорошаяпамять",
+      "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -909,7 +921,7 @@
     {
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
-        "x50% множитель получаемого урона"
+        "x50% incoming damage multiplier"
       ],
       "conflicts": [
 
@@ -925,11 +937,11 @@
 
         ],
         "stats": [
-          "x50% множитель получаемого урона"
+          "x50% incoming damage multiplier"
         ]
       },
       "defName": "Tough",
-      "name": "живучесть",
+      "name": "tough",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -959,7 +971,7 @@
         ]
       },
       "defName": "TorturedArtist",
-      "name": "непонятыйтворец",
+      "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -970,10 +982,10 @@
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
-        "+4 Кулинария"
+        "+4 cooking"
       ],
       "conflicts": [
-        "аскетизм"
+        "ascetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -983,15 +995,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "аскетизм"
+          "ascetic"
         ],
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
-          "+4 Кулинария"
+          "+4 cooking"
         ]
       },
       "defName": "Gourmand",
-      "name": "обжора",
+      "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1001,7 +1013,7 @@
     {
       "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
-        "+50% эффективность сна"
+        "+50% rest rate multiplier"
       ],
       "conflicts": [
 
@@ -1017,11 +1029,11 @@
 
         ],
         "stats": [
-          "+50% эффективность сна"
+          "+50% rest rate multiplier"
         ]
       },
       "defName": "QuickSleeper",
-      "name": "эффективныйсон",
+      "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1031,8 +1043,8 @@
     {
       "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
-        "Прилив сил inspiration disabled.",
-        "-0.20 скорость передвижения"
+        "Go frenzy inspiration disabled.",
+        "-0.20 move speed"
       ],
       "conflicts": [
 
@@ -1048,12 +1060,12 @@
 
         ],
         "stats": [
-          "Прилив сил inspiration disabled.",
-          "-0.20 скорость передвижения"
+          "Go frenzy inspiration disabled.",
+          "-0.20 move speed"
         ]
       },
       "defName": "SpeedOffset",
-      "name": "медлительность",
+      "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1063,7 +1075,7 @@
     {
       "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
-        "+0.20 скорость передвижения"
+        "+0.20 move speed"
       ],
       "conflicts": [
 
@@ -1079,11 +1091,11 @@
 
         ],
         "stats": [
-          "+0.20 скорость передвижения"
+          "+0.20 move speed"
         ]
       },
       "defName": "SpeedOffset",
-      "name": "скороход",
+      "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1093,7 +1105,7 @@
     {
       "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
-        "+0.40 скорость передвижения"
+        "+0.40 move speed"
       ],
       "conflicts": [
 
@@ -1109,11 +1121,11 @@
 
         ],
         "stats": [
-          "+0.40 скорость передвижения"
+          "+0.40 move speed"
         ]
       },
       "defName": "SpeedOffset",
-      "name": "бегун",
+      "name": "jogger",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1143,7 +1155,7 @@
         ]
       },
       "defName": "DrugDesire",
-      "name": "страстьк«химии»",
+      "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1173,7 +1185,7 @@
         ]
       },
       "defName": "DrugDesire",
-      "name": "интереск«химии»",
+      "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1183,8 +1195,8 @@
     {
       "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
-        "Тяга к наркотикам mental state disabled.",
-        "Тяга к лёгким наркотикам mental state disabled."
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled."
       ],
       "conflicts": [
 
@@ -1200,12 +1212,12 @@
 
         ],
         "stats": [
-          "Тяга к наркотикам mental state disabled.",
-          "Тяга к лёгким наркотикам mental state disabled."
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled."
         ]
       },
       "defName": "DrugDesire",
-      "name": "трезвенник",
+      "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1235,7 +1247,7 @@
         ]
       },
       "defName": "NaturalMood",
-      "name": "сангвиник",
+      "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1265,7 +1277,7 @@
         ]
       },
       "defName": "NaturalMood",
-      "name": "оптимист",
+      "name": "optimist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1295,7 +1307,7 @@
         ]
       },
       "defName": "NaturalMood",
-      "name": "пессимист",
+      "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1325,7 +1337,7 @@
         ]
       },
       "defName": "NaturalMood",
-      "name": "меланхолик",
+      "name": "depressive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1335,7 +1347,8 @@
     {
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
-        "-18% порог нервного срыва"
+        "-18% mental break threshold",
+        "x25% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1351,11 +1364,12 @@
 
         ],
         "stats": [
-          "-18% порог нервного срыва"
+          "-18% mental break threshold",
+          "x25% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
-      "name": "железныенервы",
+      "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1365,7 +1379,8 @@
     {
       "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
-        "-9% порог нервного срыва"
+        "-9% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1381,11 +1396,12 @@
 
         ],
         "stats": [
-          "-9% порог нервного срыва"
+          "-9% mental break threshold",
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
-      "name": "стрессоустойчивость",
+      "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1395,7 +1411,8 @@
     {
       "description": "Timmy tends to crack under pressure.",
       "stats": [
-        "+8% порог нервного срыва"
+        "+8% mental break threshold",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1411,11 +1428,12 @@
 
         ],
         "stats": [
-          "+8% порог нервного срыва"
+          "+8% mental break threshold",
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
-      "name": "нервозность",
+      "name": "nervous",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1425,7 +1443,8 @@
     {
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
-        "+15% порог нервного срыва"
+        "+15% mental break threshold",
+        "x300% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -1441,11 +1460,12 @@
 
         ],
         "stats": [
-          "+15% порог нервного срыва"
+          "+15% mental break threshold",
+          "x300% global certainty loss factor"
         ]
       },
       "defName": "Nerves",
-      "name": "эмоциональнаянестабильность",
+      "name": "volatile",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1455,8 +1475,8 @@
     {
       "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
-        "+20% общая скорость работы",
-        "+8% порог нервного срыва"
+        "+20% global work speed",
+        "+8% mental break threshold"
       ],
       "conflicts": [
 
@@ -1472,12 +1492,12 @@
 
         ],
         "stats": [
-          "+20% общая скорость работы",
-          "+8% порог нервного срыва"
+          "+20% global work speed",
+          "+8% mental break threshold"
         ]
       },
       "defName": "Neurotic",
-      "name": "лёгкаяневрастения",
+      "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1487,8 +1507,8 @@
     {
       "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
-        "+40% общая скорость работы",
-        "+14% порог нервного срыва"
+        "+40% global work speed",
+        "+14% mental break threshold"
       ],
       "conflicts": [
 
@@ -1504,12 +1524,12 @@
 
         ],
         "stats": [
-          "+40% общая скорость работы",
-          "+14% порог нервного срыва"
+          "+40% global work speed",
+          "+14% mental break threshold"
         ]
       },
       "defName": "Neurotic",
-      "name": "тяжёлаяневрастения",
+      "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1519,7 +1539,7 @@
     {
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
-        "+35% общая скорость работы"
+        "+35% global work speed"
       ],
       "conflicts": [
 
@@ -1535,11 +1555,11 @@
 
         ],
         "stats": [
-          "+35% общая скорость работы"
+          "+35% global work speed"
         ]
       },
       "defName": "Industriousness",
-      "name": "усердие",
+      "name": "industrious",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1549,7 +1569,7 @@
     {
       "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
-        "+20% общая скорость работы"
+        "+20% global work speed"
       ],
       "conflicts": [
 
@@ -1565,11 +1585,11 @@
 
         ],
         "stats": [
-          "+20% общая скорость работы"
+          "+20% global work speed"
         ]
       },
       "defName": "Industriousness",
-      "name": "трудолюбие",
+      "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1579,7 +1599,7 @@
     {
       "description": "Timmy is a little bit lazy.",
       "stats": [
-        "-20% общая скорость работы"
+        "-20% global work speed"
       ],
       "conflicts": [
 
@@ -1595,11 +1615,11 @@
 
         ],
         "stats": [
-          "-20% общая скорость работы"
+          "-20% global work speed"
         ]
       },
       "defName": "Industriousness",
-      "name": "леность",
+      "name": "lazy",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1609,7 +1629,7 @@
     {
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
-        "-35% общая скорость работы"
+        "-35% global work speed"
       ],
       "conflicts": [
 
@@ -1625,11 +1645,11 @@
 
         ],
         "stats": [
-          "-35% общая скорость работы"
+          "-35% global work speed"
         ]
       },
       "defName": "Industriousness",
-      "name": "праздность",
+      "name": "slothful",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1639,7 +1659,7 @@
     {
       "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
-        "+80% психочувствительность"
+        "+80% psychic sensitivity"
       ],
       "conflicts": [
 
@@ -1655,11 +1675,11 @@
 
         ],
         "stats": [
-          "+80% психочувствительность"
+          "+80% psychic sensitivity"
         ]
       },
       "defName": "PsychicSensitivity",
-      "name": "гиперчувствительность",
+      "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1669,7 +1689,7 @@
     {
       "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
       "stats": [
-        "+40% психочувствительность"
+        "+40% psychic sensitivity"
       ],
       "conflicts": [
 
@@ -1685,11 +1705,11 @@
 
         ],
         "stats": [
-          "+40% психочувствительность"
+          "+40% psychic sensitivity"
         ]
       },
       "defName": "PsychicSensitivity",
-      "name": "восприимчивость",
+      "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1699,7 +1719,7 @@
     {
       "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
-        "-50% психочувствительность"
+        "-50% psychic sensitivity"
       ],
       "conflicts": [
 
@@ -1715,11 +1735,11 @@
 
         ],
         "stats": [
-          "-50% психочувствительность"
+          "-50% psychic sensitivity"
         ]
       },
       "defName": "PsychicSensitivity",
-      "name": "психическаяустойчивость",
+      "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1729,7 +1749,7 @@
     {
       "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
-        "-100% психочувствительность"
+        "-100% psychic sensitivity"
       ],
       "conflicts": [
 
@@ -1745,11 +1765,11 @@
 
         ],
         "stats": [
-          "-100% психочувствительность"
+          "-100% psychic sensitivity"
         ]
       },
       "defName": "PsychicSensitivity",
-      "name": "психическаяглухота",
+      "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1759,11 +1779,11 @@
     {
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
-        "+25% время прицеливания",
-        "+5.0 точность стрельбы"
+        "+25% aiming time",
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
-        "драчливость"
+        "brawler"
       ],
       "bypassLimit": false,
       "data": {
@@ -1773,15 +1793,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "драчливость"
+          "brawler"
         ],
         "stats": [
-          "+25% время прицеливания",
-          "+5.0 точность стрельбы"
+          "+25% aiming time",
+          "+5.0 shooting accuracy"
         ]
       },
       "defName": "ShootingAccuracy",
-      "name": "аккуратныйстрелок",
+      "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1791,11 +1811,11 @@
     {
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
-        "-50% время прицеливания",
-        "-5.0 точность стрельбы"
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
-        "драчливость"
+        "brawler"
       ],
       "bypassLimit": false,
       "data": {
@@ -1805,15 +1825,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "драчливость"
+          "brawler"
         ],
         "stats": [
-          "-50% время прицеливания",
-          "-5.0 точность стрельбы"
+          "-50% aiming time",
+          "-5.0 shooting accuracy"
         ]
       },
       "defName": "ShootingAccuracy",
-      "name": "беспечныйстрелок",
+      "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1823,7 +1843,7 @@
     {
       "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
-        "+2.0 красота"
+        "+2.0 beauty"
       ],
       "conflicts": [
 
@@ -1839,11 +1859,11 @@
 
         ],
         "stats": [
-          "+2.0 красота"
+          "+2.0 beauty"
         ]
       },
       "defName": "Beauty",
-      "name": "невероятнаякрасота",
+      "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1853,7 +1873,7 @@
     {
       "description": "Timmy has a pretty face, which predisposes people to like him.",
       "stats": [
-        "+1.0 красота"
+        "+1.0 beauty"
       ],
       "conflicts": [
 
@@ -1869,11 +1889,11 @@
 
         ],
         "stats": [
-          "+1.0 красота"
+          "+1.0 beauty"
         ]
       },
       "defName": "Beauty",
-      "name": "красота",
+      "name": "pretty",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1883,7 +1903,7 @@
     {
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
-        "-1.0 красота"
+        "-1.0 beauty"
       ],
       "conflicts": [
 
@@ -1899,11 +1919,11 @@
 
         ],
         "stats": [
-          "-1.0 красота"
+          "-1.0 beauty"
         ]
       },
       "defName": "Beauty",
-      "name": "уродство",
+      "name": "ugly",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1913,7 +1933,7 @@
     {
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
-        "-2.0 красота"
+        "-2.0 beauty"
       ],
       "conflicts": [
 
@@ -1929,11 +1949,11 @@
 
         ],
         "stats": [
-          "-2.0 красота"
+          "-2.0 beauty"
         ]
       },
       "defName": "Beauty",
-      "name": "невероятноеуродство",
+      "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1943,7 +1963,7 @@
     {
       "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
-        "+30% скорость выработки иммунитета"
+        "+30% immunity gain speed"
       ],
       "conflicts": [
 
@@ -1959,11 +1979,11 @@
 
         ],
         "stats": [
-          "+30% скорость выработки иммунитета"
+          "+30% immunity gain speed"
         ]
       },
       "defName": "Immunity",
-      "name": "сильныйиммунитет",
+      "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -1973,7 +1993,7 @@
     {
       "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
-        "+4 Медицина"
+        "+4 medical"
       ],
       "conflicts": [
 
@@ -1989,11 +2009,11 @@
 
         ],
         "stats": [
-          "+4 Медицина"
+          "+4 medical"
         ]
       },
       "defName": "Immunity",
-      "name": "слабыйиммунитет",
+      "name": "sickly",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2021,7 +2041,7 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
-      "name": "человек",
+      "name": "human",
       "price": 2917
     }
   ]
