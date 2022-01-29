@@ -56,7 +56,7 @@ table {
 
 th {
   font-size: 0.9em;
-  color: #ff0000;
+  color: #ffaa00;
 }
 
 th.priceWithData {
@@ -103,7 +103,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #0000ff;
+    color: #00ffff;
   }
 }
 
