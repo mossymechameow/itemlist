@@ -51,7 +51,7 @@ body {
 
 table {
     display: table;
-    color: #eeeeee;
+    color: #e0e0e0;
 }
 
 th {
@@ -86,7 +86,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #dddddd;
+    color: #bdbdbd;
 }
 
 @media screen and (max-width: break) {
