@@ -1,5 +1,5 @@
 body { 
-  background: #110000; 
+  background: #030303; 
 }
 
 .tab {
@@ -43,16 +43,18 @@ body {
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #dddddd;
+    border: 1px solid #ef9a00;
     margin-bottom: 12px;
 }
 
 table {
     display: table;
+    color: #ff0000;
 }
 
 th {
   font-size: 0.9em;
+  color: #eeeeee;
 }
 
 th.priceWithData {
