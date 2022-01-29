@@ -87,7 +87,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #adadad;
+    color: #a0a0a0;
 }
 
 @media screen and (max-width: break) {
@@ -104,7 +104,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #00ffff;
+    color: #a0a0a0;
   }
 }
 
@@ -121,6 +121,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #ff00ff;
+    color: #a0a0a0;
   }
 }
