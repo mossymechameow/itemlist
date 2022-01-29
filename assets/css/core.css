@@ -1,11 +1,11 @@
 .tab {
     overflow: hidden;
-    border: 3px solid #ffcccc;
-    background-color: #0c090a;
+    border: 2px solid #454545;
+    background-color: #0C090A;
 }
 
 .tab button {
-    background-color: #33ffcc;
+    background-color: inherit;
     border: none;
     outline: none;
     cursor: pointer;
