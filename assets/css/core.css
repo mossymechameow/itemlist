@@ -27,6 +27,7 @@ body {
     display: none;
     animation: fadeEffect 320ms;
     border-top: none;
+    color: #ffaa00;
 }
 
 @keyframes fadeEffect {
