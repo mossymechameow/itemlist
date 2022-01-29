@@ -1,7 +1,7 @@
 .tab {
     overflow: hidden;
-    border: 1px solid #cccccc;
-    background-color: #f1f1f1;
+    border: 3px solid #ffcccc;
+    background-color: #0c090a;
 }
 
 .tab button {
