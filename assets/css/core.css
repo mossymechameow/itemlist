@@ -5,7 +5,7 @@
 }
 
 .tab button {
-    background-color: inherit;
+    background-color: #33ffcc;
     border: none;
     outline: none;
     cursor: pointer;
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #cccccc;
+    background-color: #ccccaa;
 }
 
 .tabContent {
