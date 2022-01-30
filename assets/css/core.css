@@ -79,7 +79,7 @@ p {
 
 table {
     display: table;
-    color: #e0e0e0;
+    
 }
 
 table tbody tr:hover {
@@ -114,10 +114,6 @@ th.version {
 
 td {
     border: 1px solid rgba(200,100,0,0.3);
-}
-
-td:hover {
-    background-color: #2c3539;
 }
 
 td.description {
