@@ -75,7 +75,9 @@ p {
     margin-bottom: 12px;
 }
 
-
+td {
+    border: 1px solid rgba(200,100,0,0.3);
+}
 
 table {
     display: table;
