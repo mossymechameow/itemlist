@@ -2,7 +2,6 @@
 title: "Ydrec's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
-color_theme: dark 
 
 
 baseurl: '/default_itemlist' # the subpath of your site, e.g. /blog
@@ -30,7 +29,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
