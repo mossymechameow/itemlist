@@ -81,14 +81,10 @@ table {
     display: table;
     color: #e0e0e0;
 }
-
 th {
   font-size: 0.9em;
   color: #e09000;
-}
-
-th:hover {
-    background-color: #ff3539;
+  border: 1px solid rgba(200,100,0,0.3);
 }
 
 th.priceWithData {
