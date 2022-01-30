@@ -81,6 +81,11 @@ table {
     display: table;
     color: #e0e0e0;
 }
+
+table tbody tr:hover {
+    background-color: #2c3539;
+}
+
 th {
   font-size: 0.9em;
   color: #e09000;
