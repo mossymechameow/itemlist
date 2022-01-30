@@ -1,14 +1,6 @@
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ff0000;
-}
-
-li {
-  background-color: #ffdddd;
+label {
+  background: #030303; 
 }
 
 
