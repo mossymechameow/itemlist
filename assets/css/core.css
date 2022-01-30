@@ -1,6 +1,5 @@
 
 .site-header {
-    border: 2px solid #454545;
     background-color: #2c292a;
 }
 
@@ -30,7 +29,7 @@ p {
 
 .tab {
     overflow: hidden;
-    border: 2px solid #454545;
+    border: 1px solid #454545;
     background-color: #0c090a;
 }
 
@@ -72,9 +71,11 @@ p {
     font-size: 16px;
     color: #ef9a00;
     padding: 12px 20px 12px 40px;
-    border: 2px solid #454545;
+    border: 1px solid #454545;
     margin-bottom: 12px;
 }
+
+
 
 table {
     display: table;
@@ -84,6 +85,10 @@ table {
 th {
   font-size: 0.9em;
   color: #e09000;
+}
+
+th:hover {
+    background-color: #ff3539;
 }
 
 th.priceWithData {
