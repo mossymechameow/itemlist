@@ -1,11 +1,10 @@
 
-label {
-  background: #030303; 
+.site-header {
+  background-color: #0c090a;
 }
 
-
 body { 
-  background: #030303; 
+  background-color: #0c090a; 
 }
 
 .tab {
