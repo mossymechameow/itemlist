@@ -72,3 +72,5 @@ mods:
 remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
+
+theme: jekyll-theme-cayman
