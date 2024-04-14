@@ -15799,7 +15799,7 @@
     "Mod": "Reuse Pods v1.4",
     "KarmaType": null
   },
-  "RotR_ISR2GNew": {
+  "DisplayFurniture_DisplayCase": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15816,10 +15816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Roads of the Rim (Continued)",
+    "Mod": "Display Furniture",
     "KarmaType": null
   },
-  "RotR_AISR2GNew": {
+  "DisplayFurniture_Plinth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15836,10 +15836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Roads of the Rim (Continued)",
+    "Mod": "Display Furniture",
     "KarmaType": null
   },
-  "RotR_ISR2G": {
+  "DisplayFurniture_Pedestal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15856,10 +15856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Roads of the Rim (Continued)",
+    "Mod": "Display Furniture",
     "KarmaType": null
   },
-  "RotR_AISR2G": {
+  "AncientLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15876,7 +15876,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Roads of the Rim (Continued)",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
   "BenchWoolLoom": {
@@ -55417,6 +55417,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Harvest Organs Post Mortem",
+    "KarmaType": null
+  },
+  "SmutFanficBook": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Smutty Fanfiction",
     "KarmaType": null
   }
 }

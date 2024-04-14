@@ -40,13 +40,13 @@
       "abr": "alpacameat",
       "category": "Meat",
       "defname": "Meat_Alpaca",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "alpacawool",
       "category": "Wools",
       "defname": "WoolAlpaca",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "alphabeaver",
@@ -58,7 +58,7 @@
       "abr": "alphabeavermeat",
       "category": "Meat",
       "defname": "Meat_Alphabeaver",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ambrosia",
@@ -208,7 +208,7 @@
       "abr": "animalflap",
       "category": "Misc",
       "defname": "AnimalFlap",
-      "price": 88
+      "price": -10
     },
     {
       "abr": "animalsleepingbox",
@@ -394,7 +394,7 @@
       "abr": "bearmeat",
       "category": "Meat",
       "defname": "Meat_Bear_Grizzly",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "bearskin",
@@ -496,7 +496,7 @@
       "abr": "birdmeat",
       "category": "Meat",
       "defname": "Meat_Cassowary",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "birdskin",
@@ -514,13 +514,13 @@
       "abr": "bisonmeat",
       "category": "Meat",
       "defname": "Meat_Bison",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "bisonwool",
       "category": "Wools",
       "defname": "WoolBison",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "blackboard",
@@ -568,7 +568,7 @@
       "abr": "boomalopemeat",
       "category": "Meat",
       "defname": "Meat_Boomalope",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "boomrat",
@@ -580,7 +580,7 @@
       "abr": "boomratmeat",
       "category": "Meat",
       "defname": "Meat_Boomrat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "bowlerhat",
@@ -658,7 +658,7 @@
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": 220
+      "price": -10
     },
     {
       "abr": "cape",
@@ -676,7 +676,7 @@
       "abr": "capybarameat",
       "category": "Meat",
       "defname": "Meat_Capybara",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "caribou",
@@ -688,7 +688,7 @@
       "abr": "cariboumeat",
       "category": "Meat",
       "defname": "Meat_Caribou",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "carnivorefinemeal",
@@ -712,7 +712,7 @@
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "cat",
@@ -724,7 +724,7 @@
       "abr": "catmeat",
       "category": "Meat",
       "defname": "Meat_Cat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "cataphractarmor",
@@ -790,13 +790,13 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -814,13 +814,13 @@
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
-      "price": 11
+      "price": -10
     },
     {
       "abr": "chinchillameat",
       "category": "Meat",
       "defname": "Meat_Chinchilla",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "chocolate",
@@ -874,13 +874,13 @@
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "cobrameat",
       "category": "Meat",
       "defname": "Meat_Cobra",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "cochlearimplant",
@@ -958,7 +958,7 @@
       "abr": "cougarmeat",
       "category": "Meat",
       "defname": "Meat_Cougar",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "count-downactivator",
@@ -1078,7 +1078,7 @@
       "abr": "dogleather",
       "category": "Leathers",
       "defname": "Leather_Dog",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "donkey",
@@ -1090,7 +1090,7 @@
       "abr": "donkeymeat",
       "category": "Meat",
       "defname": "Meat_Donkey",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "doomsdayrocketlauncher",
@@ -1144,7 +1144,7 @@
       "abr": "dromedarymeat",
       "category": "Meat",
       "defname": "Meat_Dromedary",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "druglab",
@@ -1168,19 +1168,19 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckmeat",
       "category": "Meat",
       "defname": "Meat_Duck",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "duster",
@@ -1252,13 +1252,13 @@
       "abr": "elephantleather",
       "category": "Leathers",
       "defname": "Leather_Elephant",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "elephantmeat",
       "category": "Meat",
       "defname": "Meat_Elephant",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "elephanttusk",
@@ -1276,7 +1276,7 @@
       "abr": "elkmeat",
       "category": "Meat",
       "defname": "Meat_Elk",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "eltexhelmet",
@@ -1348,7 +1348,7 @@
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "endtable",
@@ -1486,13 +1486,13 @@
       "abr": "foxmeat",
       "category": "Meat",
       "defname": "Meat_Fox_Fennec",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "fraggrenades",
@@ -1552,7 +1552,7 @@
       "abr": "gazellemeat",
       "category": "Meat",
       "defname": "Meat_Gazelle",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "geneassembler",
@@ -1630,7 +1630,7 @@
       "abr": "goatmeat",
       "category": "Meat",
       "defname": "Meat_Goat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "go-juice",
@@ -1654,13 +1654,13 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "grandaltar",
@@ -1738,13 +1738,13 @@
       "abr": "guineapigfur",
       "category": "Leathers",
       "defname": "Leather_GuineaPig",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "guineapigmeat",
       "category": "Meat",
       "defname": "Meat_GuineaPig",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "gunlink",
@@ -1774,7 +1774,7 @@
       "abr": "haremeat",
       "category": "Meat",
       "defname": "Meat_Hare",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "harp",
@@ -1924,7 +1924,7 @@
       "abr": "horsemeat",
       "category": "Meat",
       "defname": "Meat_Horse",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "horseshoespin",
@@ -1942,7 +1942,7 @@
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "humanmeat",
@@ -1960,7 +1960,7 @@
       "abr": "huskymeat",
       "category": "Meat",
       "defname": "Meat_Husky",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "hydroponicsbasin",
@@ -1984,7 +1984,7 @@
       "abr": "ibexmeat",
       "category": "Meat",
       "defname": "Meat_Ibex",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ideogram",
@@ -2044,13 +2044,13 @@
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "iguanameat",
       "category": "Meat",
       "defname": "Meat_Iguana",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ikwa",
@@ -2062,7 +2062,7 @@
       "abr": "immaturedryadmeat",
       "category": "Meat",
       "defname": "Meat_Dryad_Basic",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "immunoenhancer",
@@ -2218,7 +2218,7 @@
       "abr": "labradorretrievermeat",
       "category": "Meat",
       "defname": "Meat_LabradorRetriever",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ladieshat",
@@ -2374,7 +2374,7 @@
       "abr": "lynxmeat",
       "category": "Meat",
       "defname": "Meat_Lynx",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "mace",
@@ -2554,13 +2554,13 @@
       "abr": "megaslothmeat",
       "category": "Meat",
       "defname": "Meat_Megasloth",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "megaspider",
@@ -2614,7 +2614,7 @@
       "abr": "monkeymeat",
       "category": "Meat",
       "defname": "Meat_Monkey",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "monosword",
@@ -2650,13 +2650,13 @@
       "abr": "muffalomeat",
       "category": "Meat",
       "defname": "Meat_Muffalo",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "multi-analyzer",
@@ -2740,7 +2740,7 @@
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "3dprinter",
@@ -2758,7 +2758,7 @@
       "abr": "aberrantmeat",
       "category": "Meat",
       "defname": "Meat_GR_AberrantFleshbeast",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "absolverarmor",
@@ -2977,18 +2977,6 @@
       "price": -10
     },
     {
-      "abr": "aisr2g",
-      "category": "Road equipment",
-      "defname": "RotR_AISR2GNew",
-      "price": 3617
-    },
-    {
-      "abr": "aisr2g",
-      "category": "Power",
-      "defname": "RotR_AISR2G",
-      "price": 8967
-    },
-    {
       "abr": "alligator",
       "category": "Animals",
       "defname": "AEXP_Alligator",
@@ -2998,13 +2986,13 @@
       "abr": "alligatoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggAlligatorFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "alligatormeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Alligator",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "alloypacksplitter",
@@ -3028,43 +3016,43 @@
       "abr": "ambrandy(awful)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyAwful",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "ambrandy(excellent)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyExcellent",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "ambrandy(good)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyGood",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "ambrandy(legendary)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyLegendary",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "ambrandy(masterwork)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyMasterwork",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "ambrandy(normal)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyNormal",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "ambrandy(poor)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyPoor",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "ambrandydistillery",
@@ -3112,7 +3100,7 @@
       "abr": "anacondaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggAnacondaFertilized",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "ancientairconditioner",
@@ -3970,7 +3958,7 @@
       "abr": "animalgate",
       "category": "Misc",
       "defname": "VFEArch_AnimalGate",
-      "price": 88
+      "price": -10
     },
     {
       "abr": "animalimplant:bearleg",
@@ -4360,13 +4348,13 @@
       "abr": "armoreddoor",
       "category": "Misc",
       "defname": "VFEArch_ArmoredDoor",
-      "price": 177
+      "price": -10
     },
     {
       "abr": "armoredwall",
       "category": "Misc",
       "defname": "VFEArch_ArmoredWall",
-      "price": 36
+      "price": -10
     },
     {
       "abr": "armor-piercingshell",
@@ -4630,13 +4618,13 @@
       "abr": "avianparagonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ParagonChickenEggFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "avianparagonegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ParagonChickenEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "avocados",
@@ -4726,7 +4714,7 @@
       "abr": "badgermeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Badger",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "balaclava",
@@ -4882,13 +4870,13 @@
       "abr": "bearchickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_BearChickenEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "bearchickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_BearChickenEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "bearffalo",
@@ -5122,7 +5110,7 @@
       "abr": "black-footedferretmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_BlackFootedFerret",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "blightautorepeller",
@@ -5176,7 +5164,7 @@
       "abr": "bonobomeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Bonobo",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "book",
@@ -5218,13 +5206,13 @@
       "abr": "boomachickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_BoomachickenEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "boomachickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_BoomachickenEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "boomalopeparagon",
@@ -5452,7 +5440,7 @@
       "abr": "camelwool",
       "category": "Wools",
       "defname": "WoolCamel",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "candelabra",
@@ -5548,13 +5536,13 @@
       "abr": "cargocontainer",
       "category": "Misc",
       "defname": "VFE_CargoContainer",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "cargohold",
       "category": "Misc",
       "defname": "VFE_CargoHold",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "carrots",
@@ -5842,7 +5830,7 @@
       "abr": "cheetahmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Cheetah",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "chef'stoque",
@@ -5944,13 +5932,13 @@
       "abr": "chickenbearegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenbearEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenbearegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenbearEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenbearfeathers",
@@ -5968,13 +5956,13 @@
       "abr": "chickencategg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickencatEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickencategg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickencatEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenffalo",
@@ -5992,13 +5980,13 @@
       "abr": "chickenffaloegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenffaloEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenffaloegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenffaloEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenffalomilk",
@@ -6016,13 +6004,13 @@
       "abr": "chickenhorseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenhorseEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenhorseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenhorseEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenlizard",
@@ -6034,13 +6022,13 @@
       "abr": "chickenlizardegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenlizardEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenlizardegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenlizardEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenlope",
@@ -6052,13 +6040,13 @@
       "abr": "chickenlopeegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenlopeEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenlopeegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenlopeEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenrabbit",
@@ -6070,13 +6058,13 @@
       "abr": "chickenrabbitegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenrabbitEggFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "chickenrabbitegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenrabbitEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "chickenspider",
@@ -6088,7 +6076,7 @@
       "abr": "chickenspideregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenspiderEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenwolf",
@@ -6100,13 +6088,13 @@
       "abr": "chickenwolfegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ChickenwolfEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenwolfegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ChickenwolfEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickpeas",
@@ -6160,7 +6148,7 @@
       "abr": "climateadjuster",
       "category": "Misc",
       "defname": "VFE_ClimateAdjuster",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "clustershell",
@@ -6364,7 +6352,7 @@
       "abr": "craneegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggCraneFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "crashedaerodrone",
@@ -6376,7 +6364,7 @@
       "abr": "crispymeat",
       "category": "Meat",
       "defname": "GR_TastyMeat",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "criticalintel",
@@ -6394,19 +6382,19 @@
       "abr": "crocodileegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggCrocodileFertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodileegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggCrocodileUnfertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodilemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Crocodile",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "crocorse",
@@ -6484,7 +6472,7 @@
       "abr": "deepfriedmeat",
       "category": "Meals",
       "defname": "VCE_DeepFriedBigMeat",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "deepfriedvegetables",
@@ -6592,13 +6580,13 @@
       "abr": "deserttortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggDesertTortoiseFertilized",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "deserttortoiseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggDesertTortoiseUnfertilized",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "deserterarmor",
@@ -6622,7 +6610,7 @@
       "abr": "detonatingunstableegg",
       "category": "Manufactured",
       "defname": "GR_EggBomb",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "digestibleresurrectornanites",
@@ -6664,7 +6652,7 @@
       "abr": "dogmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Beagle",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "dogman",
@@ -6712,7 +6700,7 @@
       "abr": "dreadleather",
       "category": "Leathers",
       "defname": "Leather_Dread",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "drugcabinet",
@@ -6886,7 +6874,7 @@
       "abr": "emidynamo",
       "category": "Misc",
       "defname": "VFE_EMIDynamo",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "empcannon",
@@ -7672,7 +7660,7 @@
       "abr": "giantpangolinmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Pangolin",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "gilamonster",
@@ -7684,13 +7672,13 @@
       "abr": "gilamonsteregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggGilaMonsterFertilized",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "gilamonsteregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggGilaMonsterUnfertilized",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "gin",
@@ -7720,7 +7708,7 @@
       "abr": "giraffemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Giraffe",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "glasses",
@@ -8014,7 +8002,7 @@
       "abr": "hedgehogmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Hedgehog",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "helixienpump",
@@ -8104,13 +8092,13 @@
       "abr": "hippopotamusleather",
       "category": "Leathers",
       "defname": "AEXP_Leather_Hippopotamus",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "hippopotamusmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Hippopotamus",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "hmg",
@@ -8212,7 +8200,7 @@
       "abr": "humanegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VRESaurids_HumanEgg",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "humanimplant:bearclaws",
@@ -8422,7 +8410,7 @@
       "abr": "hydraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAEWaste_EggHydraFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "hyena",
@@ -8434,7 +8422,7 @@
       "abr": "hyenameat",
       "category": "Meat",
       "defname": "Meat_AEXP_Hyena",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "hygieneenhancer",
@@ -8596,7 +8584,7 @@
       "abr": "indoctrinationpod",
       "category": "Misc",
       "defname": "VFE_IndoctrinationPod",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "industrialcheesepress",
@@ -8743,18 +8731,6 @@
       "price": 30000
     },
     {
-      "abr": "isr2g",
-      "category": "Road equipment",
-      "defname": "RotR_ISR2GNew",
-      "price": 958
-    },
-    {
-      "abr": "isr2g",
-      "category": "Power",
-      "defname": "RotR_ISR2G",
-      "price": 48
-    },
-    {
       "abr": "jaguar",
       "category": "Animals",
       "defname": "AEXP_Jaguar",
@@ -8764,7 +8740,7 @@
       "abr": "jaguarmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Jaguar",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "janissarycuirass",
@@ -8824,7 +8800,7 @@
       "abr": "kangaroomeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Kangaroo",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ketchup",
@@ -8860,7 +8836,7 @@
       "abr": "koalameat",
       "category": "Meat",
       "defname": "Meat_AEXP_Koala",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "kombuchatea",
@@ -9166,7 +9142,7 @@
       "abr": "lightstructuralbeam",
       "category": "Misc",
       "defname": "VFE_MechanoidBeamLight",
-      "price": 48
+      "price": -10
     },
     {
       "abr": "lighttribalwear",
@@ -9184,7 +9160,7 @@
       "abr": "lionmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Lion",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "lionpelt",
@@ -9280,7 +9256,7 @@
       "abr": "luxurianthybridwool",
       "category": "Wools",
       "defname": "GR_LuxuriantHybridWool",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "machiningcabinet",
@@ -9586,13 +9562,13 @@
       "abr": "mechanoidegg",
       "category": "Drugs",
       "defname": "GR_ElectroEgg",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "mechanoidfoundry",
       "category": "Misc",
       "defname": "VFE_AssemblyFoundry",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "mechanoidhead",
@@ -9616,13 +9592,13 @@
       "abr": "mechanoidshipengines",
       "category": "Misc",
       "defname": "VFE_MechanoidEngines",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "mechanoidwool",
       "category": "Wools",
       "defname": "GR_MechaWool",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "mecha-rat",
@@ -9688,7 +9664,7 @@
       "abr": "megachickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggMegaChickenFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "megascorpion",
@@ -9712,7 +9688,7 @@
       "abr": "megawolverinemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_MegaWolverine",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "meleebook",
@@ -9826,7 +9802,7 @@
       "abr": "moaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggMoaFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "mobileturretchargingstation",
@@ -9892,7 +9868,7 @@
       "abr": "moosemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Moose",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "muffalogenome",
@@ -10012,13 +9988,13 @@
       "abr": "muskoxmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Muskox",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "muskoxwool",
       "category": "Wools",
       "defname": "AEXP_MuskOxWool",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "musket",
@@ -10288,7 +10264,7 @@
       "abr": "ottermeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Otter",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "outdoorlamp",
@@ -10360,13 +10336,13 @@
       "abr": "panthermeat",
       "category": "Meat",
       "defname": "Meat_Panther",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "pantherafur",
       "category": "Leathers",
       "defname": "Leather_Panthera",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "pants",
@@ -10402,7 +10378,7 @@
       "abr": "patchleather",
       "category": "Leathers",
       "defname": "Leather_Patch",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pdw",
@@ -10426,7 +10402,7 @@
       "abr": "peacockegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggPeacockFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "peanuts",
@@ -10480,7 +10456,7 @@
       "abr": "penguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPenguinFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "penoxycyline",
@@ -10576,7 +10552,7 @@
       "abr": "pheasantegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggPheasantFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "phoenixarmor",
@@ -10648,13 +10624,13 @@
       "abr": "pinnipedleather",
       "category": "Leathers",
       "defname": "AEXP_Leather_Pinniped",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "pinnipedmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Seal",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "plainleather",
@@ -10738,19 +10714,19 @@
       "abr": "platypusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPlatypusFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "platypusleather",
       "category": "Leathers",
       "defname": "AEXP_Leather_Platypus",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "platypusmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Platypus",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "plinth",
@@ -10852,7 +10828,7 @@
       "abr": "porcupinemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Porcupine",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "pork",
@@ -11020,13 +10996,13 @@
       "abr": "primatemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Gorilla",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "primatemeat",
       "category": "Meat",
       "defname": "Meat_VAERoy_Orangutan",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "primitivewell",
@@ -11044,7 +11020,7 @@
       "abr": "processedmeat",
       "category": "Meat",
       "defname": "VFEM_ProcessedMeat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "proximityactivator",
@@ -12172,13 +12148,13 @@
       "abr": "quailegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggQuailFertilized",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "quailegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "VAERoy_EggQuailUnfertilized",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "quiltedvest",
@@ -12214,7 +12190,7 @@
       "abr": "raccoonmeat",
       "category": "Meat",
       "defname": "Meat_Raccoon",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "radiator",
@@ -12286,7 +12262,7 @@
       "abr": "ratmeat",
       "category": "Meat",
       "defname": "Meat_Rat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ratffalo",
@@ -12310,13 +12286,13 @@
       "abr": "rattlesnakeegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggRattlesnakeFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "rattlesnakeegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggRattlesnakeUnfertilized",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "rawbileceps",
@@ -12346,7 +12322,7 @@
       "abr": "reactor",
       "category": "Misc",
       "defname": "VFE_MechanoidReactor",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "reactor",
@@ -12406,7 +12382,7 @@
       "abr": "redpandameat",
       "category": "Meat",
       "defname": "Meat_AEXP_RedPanda",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "reinforcedbarrel",
@@ -12580,13 +12556,13 @@
       "abr": "reptileparagonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ParagonIguanaEggFertilized",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "reptileparagonegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ParagonIguanaEggUnfertilized",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "ressurectorbelt",
@@ -12628,13 +12604,13 @@
       "abr": "rhinocerosleather",
       "category": "Leathers",
       "defname": "Leather_Rhinoceros",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "rhinocerosmeat",
       "category": "Meat",
       "defname": "Meat_Rhinoceros",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "rice",
@@ -12718,7 +12694,7 @@
       "abr": "rockhopperpenguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggRockhopperPenguinFertilized",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "rodentparagon",
@@ -13192,7 +13168,7 @@
       "abr": "sheepmeat",
       "category": "Meat",
       "defname": "Meat_Sheep",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "sheepwool",
@@ -13804,7 +13780,7 @@
       "abr": "smallmechanoidshipengines",
       "category": "Misc",
       "defname": "VFE_MechanoidEnginesSmall",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "smallnatureshrine",
@@ -14140,7 +14116,7 @@
       "abr": "squirrelmeat",
       "category": "Meat",
       "defname": "Meat_Squirrel",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "stabilisedmucusinducer",
@@ -14518,13 +14494,13 @@
       "abr": "swanegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAERoy_EggSwanFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "swanegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "VAERoy_EggSwanUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "swannest",
@@ -14716,7 +14692,7 @@
       "abr": "tasmaniandevilmeat",
       "category": "Meat",
       "defname": "Meat_AEXP_TasmanianDevil",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "tea",
@@ -14914,7 +14890,7 @@
       "abr": "terraformer",
       "category": "Misc",
       "defname": "VFE_MechanoidTerraformer",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -14962,13 +14938,13 @@
       "abr": "thickhybridwool",
       "category": "Wools",
       "defname": "GR_ThickHybridWool",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "thinhybridwool",
       "category": "Wools",
       "defname": "GR_ThinHybridWool",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "throwingknives",
@@ -15022,7 +14998,7 @@
       "abr": "thrumbomeat",
       "category": "Meat",
       "defname": "Meat_Thrumbo",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "thrumbocat",
@@ -15040,19 +15016,19 @@
       "abr": "thrumbochickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ThrumbochickenEggFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "thrumbochickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ThrumbochickenEggUnfertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "thrumbolizard",
@@ -15118,7 +15094,7 @@
       "abr": "thylacinemeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Thylacine",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "tidalgenerator",
@@ -15136,13 +15112,13 @@
       "abr": "tigerleather",
       "category": "Leathers",
       "defname": "AEXP_Leather_Tiger",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "tigermeat",
       "category": "Meat",
       "defname": "Meat_AEXP_Tiger",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "tilableartificialecosystem",
@@ -15256,13 +15232,13 @@
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "tortoisemeat",
       "category": "Meat",
       "defname": "Meat_Tortoise",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "torturecrown",
@@ -15322,25 +15298,25 @@
       "abr": "toxafox",
       "category": "Animals",
       "defname": "VAEWaste_Toxafox",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "toxalope",
       "category": "Animals",
       "defname": "Toxalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "toxalopemeat",
       "category": "Meat",
       "defname": "Meat_Toxalope",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "toxbear",
       "category": "Animals",
       "defname": "VAEWaste_Toxbear",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "toxblade",
@@ -15376,7 +15352,7 @@
       "abr": "toxiguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "VAEWaste_EggToxiguanaFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "toxipotatoes",
@@ -15388,13 +15364,13 @@
       "abr": "toxlion",
       "category": "Animals",
       "defname": "VAEWaste_Toxlion",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "toxscorpion",
       "category": "Animals",
       "defname": "VAEWaste_Toxscorpion",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "toybox",
@@ -15496,7 +15472,7 @@
       "abr": "trooperstorage",
       "category": "Misc",
       "defname": "VFE_TrooperStorage",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "trophy",
@@ -15544,13 +15520,13 @@
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "turkeymeat",
       "category": "Meat",
       "defname": "Meat_Turkey",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "turkeyman",
@@ -15562,13 +15538,13 @@
       "abr": "turkeymanegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_TurkeymanEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "turkeymanegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_TurkeymanEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "turretpack",
@@ -15580,7 +15556,7 @@
       "abr": "twistedmeat",
       "category": "Meat",
       "defname": "Meat_Twisted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "typewritertable",
@@ -15664,7 +15640,7 @@
       "abr": "uplinkmodule",
       "category": "Misc",
       "defname": "VFE_MechanoidUplink",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "uprightpiano",
@@ -15964,7 +15940,7 @@
       "abr": "warcasketautorifle",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Autorifle",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "warcasketbroadsword",
@@ -15976,7 +15952,7 @@
       "abr": "warcasketbroadsword",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_Broadsword",
-      "price": 2433
+      "price": -10
     },
     {
       "abr": "warcasketchargeblaster",
@@ -15988,7 +15964,7 @@
       "abr": "warcasketchargeblaster",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_ChargeBlaster",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "warcasketchargelance",
@@ -16000,7 +15976,7 @@
       "abr": "warcasketchargelance",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_ChargeLance",
-      "price": 3750
+      "price": -10
     },
     {
       "abr": "warcasketcombatknife",
@@ -16012,13 +15988,13 @@
       "abr": "warcasketcombatknife",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_CombatKnife",
-      "price": 1450
+      "price": -10
     },
     {
       "abr": "warcasketfoldinggun",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_FoldingGun",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "warcasketfoldinggun",
@@ -16042,7 +16018,7 @@
       "abr": "warcasketgravityhammer",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_GravityHammer",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "warcasketgrenadelauncher",
@@ -16054,7 +16030,7 @@
       "abr": "warcasketgrenadelauncher",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_GrenadeLauncher",
-      "price": 3150
+      "price": -10
     },
     {
       "abr": "warcaskethandheldcannon",
@@ -16066,7 +16042,7 @@
       "abr": "warcaskethandheldcannon",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_HandheldCannon",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "warcasketheavyflamer",
@@ -16078,13 +16054,13 @@
       "abr": "warcasketheavyflamer",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_HeavyFlamer",
-      "price": 4083
+      "price": -10
     },
     {
       "abr": "warcasketlaserblaster",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_LaserBlaster",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "warcasketminigun",
@@ -16096,13 +16072,13 @@
       "abr": "warcasketminigun",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Minigun",
-      "price": 3733
+      "price": -10
     },
     {
       "abr": "warcasketrailgun",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Railgun",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "warcasketrailgun",
@@ -16114,7 +16090,7 @@
       "abr": "warcasketsalvagedlasereradicator",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_SalvagedLaserEradicator",
-      "price": 6833
+      "price": -10
     },
     {
       "abr": "warcasketsalvagedlasereradicator",
@@ -16132,13 +16108,13 @@
       "abr": "warcasketslugthrower",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Slugthrower",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "warcasketteargasgrenadelauncher",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "warcasketteargasgrenadelauncher",
@@ -16156,7 +16132,7 @@
       "abr": "warcasketuraniumslugrifle",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_UraniumSlugRifle",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "wardrobe",
@@ -16174,7 +16150,7 @@
       "abr": "wargmeat",
       "category": "Meat",
       "defname": "Meat_Warg",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "warhammer",
@@ -16204,7 +16180,7 @@
       "abr": "wasteratmeat",
       "category": "Meat",
       "defname": "Meat_WasteRat",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "wasteboar",
@@ -16228,7 +16204,7 @@
       "abr": "wasteleather",
       "category": "Leathers",
       "defname": "VAEWaste_ToxicLeather",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "wastepackatomizer",
@@ -16366,13 +16342,13 @@
       "abr": "wildgooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggWildGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "wildgooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggWildGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "wildebeest",
@@ -16408,7 +16384,7 @@
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_Wolf_Timber",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "wolfpelt",
@@ -16456,13 +16432,13 @@
       "abr": "wolfchickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_WolfchickenEggFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "wolfchickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_WolfchickenEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "wolffalo",
@@ -16588,7 +16564,7 @@
       "abr": "yorkshireterriermeat",
       "category": "Meat",
       "defname": "Meat_YorkshireTerrier",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "yuenyeung",
@@ -16625,7 +16601,37 @@
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
       "price": 3333
+    },
+    {
+      "abr": "smuttyfanfiction",
+      "category": "Books",
+      "defname": "SmutFanficBook",
+      "price": 200
+    },
+    {
+      "abr": "ancientlamp",
+      "category": "Misc",
+      "defname": "AncientLamp",
+      "price": 3
+    },
+    {
+      "abr": "displaycase",
+      "category": "Furniture",
+      "defname": "DisplayFurniture_DisplayCase",
+      "price": 179
+    },
+    {
+      "abr": "pedestal",
+      "category": "Furniture",
+      "defname": "DisplayFurniture_Pedestal",
+      "price": 106
+    },
+    {
+      "abr": "plinth",
+      "category": "Furniture",
+      "defname": "DisplayFurniture_Plinth",
+      "price": 179
     }
   ],
-  "total": 2771
+  "total": 2772
 }
