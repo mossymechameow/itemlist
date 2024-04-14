@@ -3561,12 +3561,12 @@
   },
   "MedicineUltratech": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 5,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -3577,7 +3577,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "ComponentIndustrial": {
     "CustomName": null,
