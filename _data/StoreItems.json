@@ -2786,13 +2786,13 @@
     },
     {
       "abr": "advancedarchotecharm",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "AdvancedArchotechArm",
       "price": 33333
     },
     {
       "abr": "advancedarchotechleg",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "AdvancedArchotechLeg",
       "price": 33333
     },
@@ -4226,25 +4226,25 @@
     },
     {
       "abr": "archotechbrainmelder",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechBrainMelder",
       "price": 33333
     },
     {
       "abr": "archotechdeathclaw",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechDeathClaw",
       "price": 35000
     },
     {
       "abr": "archotechdenture",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechDenture",
       "price": 4667
     },
     {
       "abr": "archotechear",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechEar",
       "price": 4667
     },
@@ -4262,43 +4262,43 @@
     },
     {
       "abr": "archotechheart",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechHeart",
       "price": 4667
     },
     {
       "abr": "archotechkidney",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechKidney",
       "price": 4667
     },
     {
       "abr": "archotechliver",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechLiver",
       "price": 4667
     },
     {
       "abr": "archotechlung",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechLung",
       "price": 4667
     },
     {
       "abr": "archotechmembrane",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechMembrane",
       "price": 41667
     },
     {
       "abr": "archotechobliterator",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechObliterator",
       "price": 35000
     },
     {
       "abr": "archotechpelvis",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechPelvis",
       "price": 4667
     },
@@ -4316,13 +4316,13 @@
     },
     {
       "abr": "archotechspine",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechSpine",
       "price": 4667
     },
     {
       "abr": "archotechstomach",
-      "category": "Prosthetic",
+      "category": "Archotech",
       "defname": "ArchotechStomach",
       "price": 4667
     },
@@ -16799,7 +16799,49 @@
       "category": "Furniture",
       "defname": "LWM_WeaponsLocker",
       "price": 237
+    },
+    {
+      "abr": "archotechregenerationmatrix",
+      "category": "Archotech",
+      "defname": "ArchotechRegenerationMatrix",
+      "price": 26667
+    },
+    {
+      "abr": "cryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBed",
+      "price": 733
+    },
+    {
+      "abr": "intravenousdripstand",
+      "category": "Misc",
+      "defname": "Facility_IVDrip",
+      "price": 296
+    },
+    {
+      "abr": "operatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTable",
+      "price": 508
+    },
+    {
+      "abr": "researchcounter",
+      "category": "Misc",
+      "defname": "Facility_ResearchCounter",
+      "price": 253
+    },
+    {
+      "abr": "sterilewall",
+      "category": "Misc",
+      "defname": "VFEM_Wall_Sterile",
+      "price": -10
+    },
+    {
+      "abr": "vitalscentre",
+      "category": "Misc",
+      "defname": "Facility_VitalsCentre",
+      "price": 1125
     }
   ],
-  "total": 2800
+  "total": 2807
 }
