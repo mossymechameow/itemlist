@@ -4210,7 +4210,7 @@
       "abr": "archocentipede",
       "category": "Animals",
       "defname": "GR_ArchotechCentipede",
-      "price": 6666666
+      "price": -10
     },
     {
       "abr": "archocentipedeformer",
@@ -4288,7 +4288,7 @@
       "abr": "archotechmembrane",
       "category": "Archotech",
       "defname": "ArchotechMembrane",
-      "price": 41667
+      "price": 42325
     },
     {
       "abr": "archotechobliterator",
@@ -5128,7 +5128,7 @@
       "abr": "blueprint",
       "category": "Books",
       "defname": "VBE_Blueprint",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "bombpack",
@@ -6190,7 +6190,7 @@
       "abr": "colossalparagon",
       "category": "Animals",
       "defname": "GR_ParagonThrumbo",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "combathandgun",
@@ -7528,43 +7528,43 @@
       "abr": "genoframe(awful)",
       "category": "Genoframes",
       "defname": "GR_GenoframeAwful",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "genoframe(excellent)",
       "category": "Genoframes",
       "defname": "GR_GenoframeExcellent",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "genoframe(good)",
       "category": "Genoframes",
       "defname": "GR_GenoframeGood",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "genoframe(legendary)",
       "category": "Genoframes",
       "defname": "GR_GenoframeLegendary",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "genoframe(masterwork)",
       "category": "Genoframes",
       "defname": "GR_GenoframeMasterwork",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "genoframe(normal)",
       "category": "Genoframes",
       "defname": "GR_GenoframeNormal",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "genoframe(poor)",
       "category": "Genoframes",
       "defname": "GR_GenoframePoor",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "genomeexcavator",
@@ -8728,7 +8728,7 @@
       "abr": "isolinearcomputingmodule",
       "category": "Manufactured",
       "defname": "IsolinearModule",
-      "price": 30000
+      "price": -10
     },
     {
       "abr": "jaguar",
@@ -12232,7 +12232,7 @@
       "abr": "randomgenoframe",
       "category": "Misc",
       "defname": "GR_RandomGenoframe",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "randomgenome",
@@ -12496,43 +12496,43 @@
       "abr": "replimatanimalfeeder",
       "category": "Furniture",
       "defname": "ReplimatAnimalFeeder",
-      "price": 16667
+      "price": -10
     },
     {
       "abr": "replimatcadaverprocessor",
       "category": "Furniture",
       "defname": "ReplimatCorpseRecycler",
-      "price": 666667
+      "price": -10
     },
     {
       "abr": "replimatcomputer",
       "category": "Furniture",
       "defname": "ReplimatComputer",
-      "price": 833333
+      "price": -10
     },
     {
       "abr": "replimatfeedstocktank",
       "category": "Furniture",
       "defname": "ReplimatFeedTank",
-      "price": 83333
+      "price": -10
     },
     {
       "abr": "replimathopper",
       "category": "Furniture",
       "defname": "ReplimatHopper",
-      "price": 666667
+      "price": -10
     },
     {
       "abr": "replimatsewagerecycler",
       "category": "Furniture",
       "defname": "ReplimatSewageRecycler",
-      "price": 416667
+      "price": -10
     },
     {
       "abr": "replimatterminal",
       "category": "Furniture",
       "defname": "ReplimatTerminal",
-      "price": 416667
+      "price": -10
     },
     {
       "abr": "reprocessorstomach",
@@ -14740,91 +14740,91 @@
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(brainwiring)",
       "category": "Techprints",
       "defname": "Techprint_BrainWiring",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(imperialdefenses)",
       "category": "Techprints",
       "defname": "Techprint_VFED_ImperialDefenses",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(imperialwarsolutions)",
       "category": "Techprints",
       "defname": "Techprint_VFED_ImperialWarSolutions",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprinter",
