@@ -78,6 +78,12 @@
     "version": null
   },
   {
+    "author": "VouLT",
+    "name": "Better Pawn Control - Continued",
+    "steamId": "3220722757",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "sumghai and Dubwise",
     "name": "Replimat",
     "steamId": "1715402900",
@@ -276,6 +282,12 @@
     "version": null
   },
   {
+    "author": "NIKIDIGI",
+    "name": "Friendly Fire Off",
+    "steamId": "2866104039",
+    "version": "1.0.0+cc160d3aac0aee5187a8d8cc8fa62787ad3285c8"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -396,10 +408,22 @@
     "version": null
   },
   {
+    "author": "Mud",
+    "name": "Mud's Tribal Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": "2009825774",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Taranchuk",
@@ -429,6 +453,42 @@
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: ReTextures",
+    "steamId": "3205381921",
     "version": "1.0.0.0"
   },
   {
@@ -585,7 +645,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.1.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
+    "version": "7.0.2.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
   },
   {
     "author": "AUTOMATIC",
@@ -684,12 +744,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Deserters",
     "steamId": "3025493377",
@@ -700,12 +754,6 @@
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -852,12 +900,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard and xrushha",
     "name": "Vanilla Races Expanded - Archon",
     "steamId": "3067715093",
@@ -946,12 +988,6 @@
     "name": "Vanilla Temperature Expanded",
     "steamId": "3202046258",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
   },
   {
     "author": "Sarg Bjornson",
@@ -1074,12 +1110,6 @@
     "version": "1.5.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
@@ -1120,6 +1150,12 @@
     "name": "[T] MoreFloors 1.4",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "[Temp beta] Clean Pathfinding 2",
+    "steamId": "2887176193",
+    "version": "0.1.0.0+1fdbd93ae097edc2388a53d7037a463fc04aa7ba"
   },
   {
     "author": "Wemd",
