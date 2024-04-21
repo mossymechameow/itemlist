@@ -2878,13 +2878,13 @@
       "abr": "advancedinfernocannon",
       "category": "Ranged weapons",
       "defname": "VFE_Gun_AdvancedInfernoCannon",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "advancedinfernospewer",
       "category": "Ranged weapons",
       "defname": "VFE_Gun_AdvancedInfernoSpewer",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "advancedmedicalstation",
@@ -8644,7 +8644,7 @@
       "abr": "infernospewer",
       "category": "Ranged weapons",
       "defname": "VFE_Gun_InfernoSpewer",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "insectjellypreserves",
@@ -9526,7 +9526,7 @@
       "abr": "mechanoidassemblypod",
       "category": "Misc",
       "defname": "VFE_AssemblyPod",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "mechanoidbarrier",
@@ -13768,7 +13768,7 @@
       "abr": "smallinfernospewer",
       "category": "Ranged weapons",
       "defname": "VFE_Gun_InfernoSpewerSmall",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "smallmechanoidshipengines",
@@ -16931,7 +16931,37 @@
       "category": "Vegetarian",
       "defname": "RG_RawCactus",
       "price": 1
+    },
+    {
+      "abr": "doubleautodoor",
+      "category": "Misc",
+      "defname": "BDD_AutoDoor",
+      "price": 592
+    },
+    {
+      "abr": "doubledoor",
+      "category": "Misc",
+      "defname": "BDD_DoubleDoor",
+      "price": 177
+    },
+    {
+      "abr": "animaseed",
+      "category": "Misc",
+      "defname": "RG_AnimaSeed",
+      "price": 3000
+    },
+    {
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
+      "price": 278
+    },
+    {
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": 120
     }
   ],
-  "total": 2822
+  "total": 2827
 }
