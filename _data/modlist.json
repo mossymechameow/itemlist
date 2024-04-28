@@ -36,12 +36,6 @@
     "version": "1.5.1"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "swablu",
     "name": "Ambient Rim",
     "steamId": "3158997430",
@@ -58,6 +52,18 @@
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.8838.38019"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zenlor",
+    "name": "Anomaly Hotfixes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Teok25",
@@ -105,7 +111,7 @@
     "author": "sumghai and Dubwise",
     "name": "Replimat",
     "steamId": "1715402900",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -160,6 +166,12 @@
     "name": "Chill the F*** Out",
     "steamId": "2880668727",
     "version": "1.0.3"
+  },
+  {
+    "author": "Mlie",
+    "name": "Cleaning Priority (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
@@ -360,6 +372,12 @@
     "version": "1.4.1.4"
   },
   {
+    "author": "Falconne",
+    "name": "Labels on Floor (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
@@ -454,6 +472,12 @@
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Updated by Ogliss",
+    "name": "Pawn Badge Fan Fork [Adopted]",
+    "steamId": "2526040241",
+    "version": "1.0.0"
   },
   {
     "author": "fed1sPlay",
@@ -554,8 +578,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: ReTextures",
-    "steamId": "3205381921",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Helixien",
@@ -675,7 +699,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.5.1"
+    "version": "1.5.3"
   },
   {
     "author": "Nimrag",
@@ -747,7 +771,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.2.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
+    "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
   },
   {
     "author": "AUTOMATIC",
@@ -766,6 +790,12 @@
     "name": "Ugh You Got Me",
     "steamId": "1542424705",
     "version": "1.0.8847.22466"
+  },
+  {
+    "author": "Aqua",
+    "name": "Uncapped Besties!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "dismarzero",
@@ -1128,6 +1158,18 @@
     "version": "1.4.1.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
     "name": "Vanilla Factions Expanded - Settlers",
     "steamId": "2052918119",
@@ -1230,6 +1272,18 @@
     "version": "1.5.0"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Anomaly Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
@@ -1270,6 +1324,12 @@
     "name": "[T] MoreFloors 1.4",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "[Temp beta] Clean Pathfinding 2",
+    "steamId": "2887176193",
+    "version": "1.4"
   },
   {
     "author": "Wemd",

@@ -994,7 +994,7 @@
       "abr": "cryptosleepcasket",
       "category": "Misc",
       "defname": "CryptosleepCasket",
-      "price": 1183
+      "price": -10
     },
     {
       "abr": "cube",
@@ -2416,7 +2416,7 @@
       "abr": "mechassembler",
       "category": "Misc",
       "defname": "MechAssembler",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "mechbooster",
@@ -2428,7 +2428,7 @@
       "abr": "mechcapsule",
       "category": "Misc",
       "defname": "MechCapsule",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "mechdropbeacon",
@@ -16961,7 +16961,277 @@
       "category": "Power",
       "defname": "Building_RTMakeshiftFuse",
       "price": 120
+    },
+    {
+      "abr": "airdrop",
+      "category": "Misc",
+      "defname": "Airdrop",
+      "price": 1
+    },
+    {
+      "abr": "autogaragedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoor",
+      "price": 783
+    },
+    {
+      "abr": "autogaragedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorOpened",
+      "price": 783
+    },
+    {
+      "abr": "autogaragedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorLarge",
+      "price": 975
+    },
+    {
+      "abr": "autogaragedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorLargeOpened",
+      "price": 975
+    },
+    {
+      "abr": "bangbus",
+      "category": "Misc",
+      "defname": "VVE_BangBus_Blueprint",
+      "price": 3008
+    },
+    {
+      "abr": "bulldog",
+      "category": "Misc",
+      "defname": "VVE_Bulldog_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "bunsen",
+      "category": "Misc",
+      "defname": "VVE_Bunsen_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "caralternator",
+      "category": "Car parts",
+      "defname": "VVE_CarAlternator",
+      "price": 158
+    },
+    {
+      "abr": "carbattery",
+      "category": "Car parts",
+      "defname": "VVE_CarBattery",
+      "price": 200
+    },
+    {
+      "abr": "carexhaust",
+      "category": "Car parts",
+      "defname": "VVE_CarExhaust",
+      "price": 133
+    },
+    {
+      "abr": "carfueltank",
+      "category": "Car parts",
+      "defname": "VVE_CarFuelTank",
+      "price": 158
+    },
+    {
+      "abr": "carradiator",
+      "category": "Car parts",
+      "defname": "VVE_CarRadiator",
+      "price": 150
+    },
+    {
+      "abr": "carsuspension",
+      "category": "Car parts",
+      "defname": "VVE_CarSuspension",
+      "price": 150
+    },
+    {
+      "abr": "cartransmission",
+      "category": "Car parts",
+      "defname": "VVE_CarTransmission",
+      "price": 283
+    },
+    {
+      "abr": "carwheel",
+      "category": "Car parts",
+      "defname": "VVE_CarWheel",
+      "price": 117
+    },
+    {
+      "abr": "carwiring",
+      "category": "Car parts",
+      "defname": "VVE_CarWiring",
+      "price": 208
+    },
+    {
+      "abr": "charley",
+      "category": "Misc",
+      "defname": "VVE_Charley_Blueprint",
+      "price": 2433
+    },
+    {
+      "abr": "dinghy",
+      "category": "Misc",
+      "defname": "VVE_Dinghy_Blueprint",
+      "price": 908
+    },
+    {
+      "abr": "dirtbike",
+      "category": "Misc",
+      "defname": "VVE_Dirtbike_Blueprint",
+      "price": 1517
+    },
+    {
+      "abr": "engineblock",
+      "category": "Car parts",
+      "defname": "VVE_EngineBlock",
+      "price": 542
+    },
+    {
+      "abr": "frog",
+      "category": "Misc",
+      "defname": "VVE_Frog_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "garagecabinet",
+      "category": "Misc",
+      "defname": "VVE_GarageCabinet",
+      "price": 667
+    },
+    {
+      "abr": "garagedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoor",
+      "price": 358
+    },
+    {
+      "abr": "garagedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorOpened",
+      "price": 358
+    },
+    {
+      "abr": "garagedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorLarge",
+      "price": 442
+    },
+    {
+      "abr": "garagedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorLargeOpened",
+      "price": 442
+    },
+    {
+      "abr": "highwayman",
+      "category": "Misc",
+      "defname": "VVE_Highwayman_Blueprint",
+      "price": 4167
+    },
+    {
+      "abr": "mosquito",
+      "category": "Misc",
+      "defname": "VVE_Mosquito_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "mule",
+      "category": "Misc",
+      "defname": "VVE_Mule_Blueprint",
+      "price": 3725
+    },
+    {
+      "abr": "prowler",
+      "category": "Misc",
+      "defname": "VVE_Prowler_Blueprint",
+      "price": 2658
+    },
+    {
+      "abr": "refuelingpump",
+      "category": "Misc",
+      "defname": "VVE_RefuelingPump",
+      "price": 375
+    },
+    {
+      "abr": "roadkill",
+      "category": "Misc",
+      "defname": "VVE_Roadkill_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "roadrunner",
+      "category": "Misc",
+      "defname": "VVE_Roadrunner_Blueprint",
+      "price": 4425
+    },
+    {
+      "abr": "scytheman",
+      "category": "Misc",
+      "defname": "VVE_Scytheman_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "smuggler",
+      "category": "Misc",
+      "defname": "VVE_Smuggler_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "snatcher",
+      "category": "Misc",
+      "defname": "VVE_Snatcher_Blueprint",
+      "price": 4175
+    },
+    {
+      "abr": "tango",
+      "category": "Misc",
+      "defname": "VVE_Tango_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "tanktrap",
+      "category": "Misc",
+      "defname": "VVE_TankTrap",
+      "price": 144
+    },
+    {
+      "abr": "toad",
+      "category": "Misc",
+      "defname": "VVE_Toad_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "traveller",
+      "category": "Misc",
+      "defname": "VVE_Traveller_Blueprint",
+      "price": 3033
+    },
+    {
+      "abr": "trawler",
+      "category": "Misc",
+      "defname": "VVE_Trawler_Blueprint",
+      "price": 3167
+    },
+    {
+      "abr": "wagon",
+      "category": "Misc",
+      "defname": "VVE_Wagon_Blueprint",
+      "price": 3958
+    },
+    {
+      "abr": "warbird",
+      "category": "Misc",
+      "defname": "VVE_Warbird_Blueprint",
+      "price": -10
+    },
+    {
+      "abr": "wisent",
+      "category": "Misc",
+      "defname": "VVE_Wisent_Blueprint",
+      "price": 7000
     }
   ],
-  "total": 2827
+  "total": 2872
 }
