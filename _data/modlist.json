@@ -27,13 +27,67 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.9.2.0"
+    "version": "3.9.5.0"
   },
   {
     "author": "Mlie",
     "name": "All Memories Fade",
     "steamId": "2800155563",
     "version": "1.5.1"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "sumghai and Dubwise",
+    "name": "Replimat",
+    "steamId": "1715402900",
+    "version": "1.5.3"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8888.40976"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tweaks Galore",
+    "steamId": "2695164414",
+    "version": "3.0.8883.23433"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": "2193152410",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
   },
   {
     "author": "swablu",
@@ -108,18 +162,6 @@
     "version": "2.7.0"
   },
   {
-    "author": "sumghai and Dubwise",
-    "name": "Replimat",
-    "steamId": "1715402900",
-    "version": "1.5.3"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -128,6 +170,12 @@
   {
     "author": "Steve",
     "name": "Better Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "Big Little Mod Patch",
     "steamId": null,
     "version": null
   },
@@ -168,12 +216,6 @@
     "version": "1.0.3"
   },
   {
-    "author": "Mlie",
-    "name": "Cleaning Priority (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Aelanna",
     "name": "Cleaning Speed",
     "steamId": null,
@@ -192,12 +234,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
     "name": "Vanilla Factions Expanded - Classical",
     "steamId": "2787850474",
@@ -214,6 +250,30 @@
     "name": "Damage Indicators [1.5]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Rah",
+    "name": "RBSE",
+    "steamId": "850429707",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus (Continued)",
+    "steamId": "2589072911",
+    "version": "1.5.0"
   },
   {
     "author": "Atkana",
@@ -240,6 +300,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.0.0+da8e08a3cfd53ebd8d6ee315d587c013eb0f4a5b"
+  },
+  {
     "author": "Slime-Senpai",
     "name": "EndlessGrowth",
     "steamId": "2894401734",
@@ -248,12 +314,6 @@
   {
     "author": "Erin and Sarg Bjornson",
     "name": "Erin's Decorations",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -321,7 +381,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.9.0"
+    "version": "1.6.10.0"
   },
   {
     "author": "Telefonmast",
@@ -348,6 +408,12 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "AmCh and Missionz3r0",
+    "name": "Improved Need Indicator",
+    "steamId": "3211635205",
+    "version": "1.0.0"
+  },
+  {
     "author": "Murmur",
     "name": "Infestations Spawn in Darkness",
     "steamId": "2017514331",
@@ -358,18 +424,6 @@
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
     "version": "3.0.0.0"
-  },
-  {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage (Unofficial 1.5)",
-    "steamId": "3220688225",
-    "version": "1.4.1.4"
   },
   {
     "author": "Falconne",
@@ -399,7 +453,13 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.13.0"
+    "version": "1.12.14.0"
+  },
+  {
+    "author": "Big Veech",
+    "name": "Metals Trader",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf",
@@ -474,6 +534,18 @@
     "version": null
   },
   {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "Optional Icons for Architect Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Updated by Ogliss",
     "name": "Pawn Badge Fan Fork [Adopted]",
     "steamId": "2526040241",
@@ -504,10 +576,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Rah",
-    "name": "RBSE",
-    "steamId": "850429707",
-    "version": "1.0.0.0"
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
   },
   {
     "author": "Sandy",
@@ -633,7 +705,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "SomewhereOutInSpace and maintainers",
@@ -664,6 +736,12 @@
     "name": "Self Dyeing",
     "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor and Proxyer",
+    "name": "Simple Recycling",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -699,7 +777,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "Nimrag",
@@ -976,18 +1054,6 @@
     "name": "Vanilla Ideology Expanded - Icons and Symbols",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and legodude17",
@@ -1273,6 +1339,12 @@
   },
   {
     "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
     "name": "[FSF] Better Anomaly Loot",
     "steamId": null,
     "version": null
@@ -1314,6 +1386,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "KittahKhan",
+    "name": "[Kit] Just A Flesh Wound",
+    "steamId": "2260055393",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "DerekBickley",
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
@@ -1324,12 +1402,6 @@
     "name": "[T] MoreFloors 1.4",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "[Temp beta] Clean Pathfinding 2",
-    "steamId": "2887176193",
-    "version": "1.4"
   },
   {
     "author": "Wemd",
