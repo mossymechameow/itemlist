@@ -202,7 +202,7 @@
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": -10
+      "price": 136
     },
     {
       "abr": "animalflap",
@@ -298,7 +298,7 @@
       "abr": "arrayheadset",
       "category": "Headgear",
       "defname": "Apparel_ArrayHeadset",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "artbench",
@@ -316,7 +316,7 @@
       "abr": "authoritycap",
       "category": "Headgear",
       "defname": "Apparel_AuthorityCap",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "autobong",
@@ -430,7 +430,7 @@
       "abr": "beret",
       "category": "Headgear",
       "defname": "Apparel_Beret",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "berries",
@@ -586,7 +586,7 @@
       "abr": "bowlerhat",
       "category": "Headgear",
       "defname": "Apparel_BowlerHat",
-      "price": -10
+      "price": 77
     },
     {
       "abr": "box",
@@ -616,7 +616,7 @@
       "abr": "broadwrap",
       "category": "Headgear",
       "defname": "Apparel_Broadwrap",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "burka",
@@ -766,7 +766,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": 4
+      "price": 8
     },
     {
       "abr": "chemfuelpoweredgenerator",
@@ -940,7 +940,7 @@
       "abr": "coronet",
       "category": "Headgear",
       "defname": "Apparel_Coronet",
-      "price": -10
+      "price": 215
     },
     {
       "abr": "corset",
@@ -976,7 +976,7 @@
       "abr": "cowboyhat",
       "category": "Headgear",
       "defname": "Apparel_CowboyHat",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "crib",
@@ -988,7 +988,7 @@
       "abr": "crown",
       "category": "Headgear",
       "defname": "Apparel_Crown",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "cryptosleepcasket",
@@ -1360,7 +1360,7 @@
       "abr": "facemask",
       "category": "Headgear",
       "defname": "Apparel_ClothMask",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "fence",
@@ -1462,7 +1462,7 @@
       "abr": "flophat",
       "category": "Headgear",
       "defname": "Apparel_Flophat",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "foamturret",
@@ -1678,7 +1678,7 @@
       "abr": "grandsculpture",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "grandstele",
@@ -1798,7 +1798,7 @@
       "abr": "headwrap",
       "category": "Headgear",
       "defname": "Apparel_Headwrap",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "healermechserum",
@@ -1834,7 +1834,7 @@
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Heavy",
-      "price": 6
+      "price": 16
     },
     {
       "abr": "heavysmg",
@@ -1894,7 +1894,7 @@
       "abr": "hood",
       "category": "Headgear",
       "defname": "Apparel_HatHood",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "hoopstonering",
@@ -2224,7 +2224,7 @@
       "abr": "ladieshat",
       "category": "Headgear",
       "defname": "Apparel_HatLadies",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "largealtar",
@@ -2254,7 +2254,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "largestele",
@@ -2524,7 +2524,7 @@
       "abr": "meditationthrone",
       "category": "Furniture",
       "defname": "Throne",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "mediumaltar",
@@ -2812,7 +2812,7 @@
       "abr": "advancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBed",
-      "price": -10
+      "price": 817
     },
     {
       "abr": "advancedbionicarm",
@@ -2860,13 +2860,13 @@
       "abr": "advancedchair",
       "category": "Furniture",
       "defname": "Seat_AdvChair",
-      "price": -10
+      "price": 1575
     },
     {
       "abr": "advanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBed",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "advancedgeothermalgenerator",
@@ -2950,13 +2950,13 @@
       "abr": "agavenectar",
       "category": "Condiments",
       "defname": "VCE_AgaveNectar",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "airfilter",
       "category": "Android body parts",
       "defname": "VREA_AirFilter",
-      "price": 508
+      "price": 525
     },
     {
       "abr": "air-conindoorunit",
@@ -3016,43 +3016,43 @@
       "abr": "ambrandy(awful)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyAwful",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "ambrandy(excellent)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyExcellent",
-      "price": -10
+      "price": 2250
     },
     {
       "abr": "ambrandy(good)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyGood",
-      "price": -10
+      "price": 1733
     },
     {
       "abr": "ambrandy(legendary)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyLegendary",
-      "price": -10
+      "price": 4183
     },
     {
       "abr": "ambrandy(masterwork)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyMasterwork",
-      "price": -10
+      "price": 3525
     },
     {
       "abr": "ambrandy(normal)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyNormal",
-      "price": -10
+      "price": 1108
     },
     {
       "abr": "ambrandy(poor)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyPoor",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "ambrandydistillery",
@@ -3262,7 +3262,7 @@
       "abr": "ancienteducator",
       "category": "Furniture",
       "defname": "VFEA_AncientEducator",
-      "price": -10
+      "price": 217
     },
     {
       "abr": "ancientelectrowomb",
@@ -3298,7 +3298,7 @@
       "abr": "ancientfoosballtable",
       "category": "Furniture",
       "defname": "VFEA_AncientFoosballTable",
-      "price": -10
+      "price": 183
     },
     {
       "abr": "ancientfueltank",
@@ -3862,7 +3862,7 @@
       "abr": "ancientvitalsmonitor",
       "category": "Misc",
       "defname": "VFEA_AncientVitalsMonitor",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "ancientwalllamp",
@@ -3898,7 +3898,7 @@
       "abr": "androidarm",
       "category": "Android body parts",
       "defname": "VREA_AndroidArm",
-      "price": 408
+      "price": 458
     },
     {
       "abr": "androidbehavioriststation",
@@ -3916,19 +3916,19 @@
       "abr": "androidfoot",
       "category": "Android body parts",
       "defname": "VREA_AndroidFoot",
-      "price": 241
+      "price": 256
     },
     {
       "abr": "androidhand",
       "category": "Android body parts",
       "defname": "VREA_AndroidHand",
-      "price": 241
+      "price": 256
     },
     {
       "abr": "androidleg",
       "category": "Android body parts",
       "defname": "VREA_AndroidLeg",
-      "price": 408
+      "price": 458
     },
     {
       "abr": "androidpartworkbench",
@@ -4300,7 +4300,7 @@
       "abr": "archotechsculpture",
       "category": "Art",
       "defname": "VFE_ArchotechSculpture",
-      "price": -10
+      "price": 5558
     },
     {
       "abr": "archotechshieldgenerator",
@@ -4360,79 +4360,79 @@
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Sternum",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Pelvis",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Neck",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Tongue",
-      "price": -10
+      "price": 196
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Shoulder",
-      "price": -10
+      "price": 295
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Clavicle",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Humerus",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Radius",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Finger",
-      "price": -10
+      "price": 196
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Waist",
-      "price": -10
+      "price": 196
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Femur",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Tibia",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "artificial",
       "category": "Android body parts",
       "defname": "VREA_Toe",
-      "price": -10
+      "price": 196
     },
     {
       "abr": "artificialbone",
@@ -4708,7 +4708,7 @@
       "abr": "balaclava",
       "category": "Headgear",
       "defname": "VAE_Headgear_Balaclava",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "ballista",
@@ -4726,7 +4726,7 @@
       "abr": "bandana",
       "category": "Headgear",
       "defname": "VFES_Headgear_Bandana",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "bar",
@@ -4756,7 +4756,7 @@
       "abr": "baseballcap",
       "category": "Headgear",
       "defname": "VAE_Headgear_BaseballCap",
-      "price": -10
+      "price": 77
     },
     {
       "abr": "basin",
@@ -4768,7 +4768,7 @@
       "abr": "bathmat",
       "category": "Furniture",
       "defname": "BathMat",
-      "price": -10
+      "price": 71
     },
     {
       "abr": "bathtub",
@@ -4810,7 +4810,7 @@
       "abr": "beads",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Beads",
-      "price": -10
+      "price": 116
     },
     {
       "abr": "beagle",
@@ -5068,7 +5068,7 @@
       "abr": "bishophat",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_BishopHat",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "blackbear",
@@ -5308,7 +5308,7 @@
       "abr": "brimlesshat",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_BrimlessHat",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "britishshorthaircat",
@@ -5536,7 +5536,7 @@
       "abr": "carving",
       "category": "Art",
       "defname": "VFE_Carving",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "cassavas",
@@ -5554,7 +5554,7 @@
       "abr": "cattower",
       "category": "Furniture",
       "defname": "ED_CatTower",
-      "price": -10
+      "price": 134
     },
     {
       "abr": "catalope",
@@ -5680,7 +5680,7 @@
       "abr": "ceremonialhood",
       "category": "Headgear",
       "defname": "Apparel_CeremonialCultistMask",
-      "price": -10
+      "price": 90
     },
     {
       "abr": "ceremonialmask",
@@ -5818,7 +5818,7 @@
       "abr": "chef'stoque",
       "category": "Headgear",
       "defname": "VAE_Headgear_ChefsToque",
-      "price": -10
+      "price": 112
     },
     {
       "abr": "chef'suniform",
@@ -6094,7 +6094,7 @@
       "abr": "chocolatesyrup",
       "category": "Condiments",
       "defname": "VCE_ChocolateSyrup",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "chunk",
@@ -6196,7 +6196,7 @@
       "abr": "commissarhat",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_CommisarHat",
-      "price": -10
+      "price": 109
     },
     {
       "abr": "companiondryad",
@@ -6460,13 +6460,13 @@
       "abr": "deepchem",
       "category": "Manufactured",
       "defname": "VCHE_Deepchem",
-      "price": 6
+      "price": 10
     },
     {
       "abr": "deepchem",
       "category": "Manufactured",
       "defname": "GR_CompressedChemfuel",
-      "price": 5
+      "price": 15
     },
     {
       "abr": "deepchemdrain",
@@ -6514,7 +6514,7 @@
       "abr": "deerskull",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_DeerSkull",
-      "price": -10
+      "price": 145
     },
     {
       "abr": "deployablebarrier",
@@ -6880,19 +6880,19 @@
       "abr": "ergonomicbed",
       "category": "Furniture",
       "defname": "Bed_Ergonomic",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "ergonomicchair",
       "category": "Furniture",
       "defname": "Seat_ModernChair",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "ergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomic",
-      "price": -10
+      "price": 892
     },
     {
       "abr": "esotericismslab(broad)",
@@ -6958,7 +6958,7 @@
       "abr": "fedora",
       "category": "Headgear",
       "defname": "VAE_Headgear_Fedora",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "felinegenome",
@@ -6982,7 +6982,7 @@
       "abr": "fez",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Fez",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "fieldgun",
@@ -7090,7 +7090,7 @@
       "abr": "flatcap",
       "category": "Headgear",
       "defname": "VFES_Headgear_FlatCap",
-      "price": -10
+      "price": 95
     },
     {
       "abr": "fleeceshirt",
@@ -7246,7 +7246,7 @@
       "abr": "floodlight",
       "category": "Furniture",
       "defname": "FloodLight",
-      "price": -10
+      "price": 189
     },
     {
       "abr": "floorpainting",
@@ -7582,7 +7582,7 @@
       "abr": "ghilliehood",
       "category": "Headgear",
       "defname": "VAE_Headgear_GhillieHood",
-      "price": -10
+      "price": 160
     },
     {
       "abr": "ghilliesuit",
@@ -7750,25 +7750,25 @@
       "abr": "grandimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureGrand",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "grandroyalrug",
       "category": "Furniture",
       "defname": "VFEE_GrandRoyalRug",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "grandrug",
       "category": "Art",
       "defname": "VFE_RugGrand",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "grandstatue",
       "category": "Art",
       "defname": "VFE_StatueGrand",
-      "price": -10
+      "price": 1125
     },
     {
       "abr": "grandtable",
@@ -7876,7 +7876,7 @@
       "abr": "hazmathood",
       "category": "Headgear",
       "defname": "VAE_Headgear_HAZMATMask",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "hazmatsuit",
@@ -7888,13 +7888,13 @@
       "abr": "headbag",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Headbag",
-      "price": -10
+      "price": 124
     },
     {
       "abr": "headscarf",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Headscarf",
-      "price": -10
+      "price": 126
     },
     {
       "abr": "heatpearls",
@@ -8104,13 +8104,13 @@
       "abr": "horsemask",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_HorseMask",
-      "price": -10
+      "price": 145
     },
     {
       "abr": "hotsauce",
       "category": "Condiments",
       "defname": "VCE_HotSauce",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "hottub",
@@ -8440,13 +8440,13 @@
       "abr": "illuminateddresser",
       "category": "Furniture",
       "defname": "Table_IlluminatedDresser",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "illuminatedendtable",
       "category": "Furniture",
       "defname": "Table_IlluminatedEndTable",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "immunobooster",
@@ -8608,7 +8608,7 @@
       "abr": "insectjellypreserves",
       "category": "Condiments",
       "defname": "VCE_InsectJellyPreserves",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "insectskull",
@@ -8638,13 +8638,13 @@
       "abr": "interactivetable(1x1)",
       "category": "Furniture",
       "defname": "Table_interactive_1x1c",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "interactivetable(2x2)",
       "category": "Furniture",
       "defname": "Table_interactive_2x2c",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "invisibilityengulfer",
@@ -8758,7 +8758,7 @@
       "abr": "ketchup",
       "category": "Condiments",
       "defname": "VCE_Ketchup",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "kitchencupboard",
@@ -8866,7 +8866,7 @@
       "abr": "largeimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "largepassivecooler",
@@ -8890,13 +8890,13 @@
       "abr": "largeroyalrug",
       "category": "Furniture",
       "defname": "VFEE_LargeRoyalRug",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "largerug",
       "category": "Art",
       "defname": "VFE_RugLarge",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "largeshieldgenerator",
@@ -8908,7 +8908,7 @@
       "abr": "largestatue",
       "category": "Art",
       "defname": "VFE_StatueLarge",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "largevanometricpowercell",
@@ -9124,7 +9124,7 @@
       "abr": "liquidfreezer",
       "category": "Furniture",
       "defname": "VFE_MechanoidLiquidFreezer",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "liquormixer",
@@ -9346,7 +9346,7 @@
       "abr": "mayo",
       "category": "Condiments",
       "defname": "VCE_Mayo",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "meatdryingrack",
@@ -9508,7 +9508,7 @@
       "abr": "mechanoidegg",
       "category": "Drugs",
       "defname": "GR_ElectroEgg",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "mechanoidfoundry",
@@ -9658,13 +9658,13 @@
       "abr": "militaryberet",
       "category": "Headgear",
       "defname": "VAE_Headgear_Beret",
-      "price": -10
+      "price": 77
     },
     {
       "abr": "militarycap",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_MilitaryCap",
-      "price": -10
+      "price": 109
     },
     {
       "abr": "militaryjacket",
@@ -9784,7 +9784,7 @@
       "abr": "monument",
       "category": "Art",
       "defname": "VFE_Monument",
-      "price": -10
+      "price": 2100
     },
     {
       "abr": "moose",
@@ -10102,7 +10102,7 @@
       "abr": "obelisk",
       "category": "Art",
       "defname": "VFE_Obelisk",
-      "price": -10
+      "price": 775
     },
     {
       "abr": "okra",
@@ -10198,13 +10198,13 @@
       "abr": "outdoorlamp",
       "category": "Furniture",
       "defname": "Light_Streetlamp",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "outdoorsolarlamp",
       "category": "Furniture",
       "defname": "Spacer_OutdoorLamp",
-      "price": -10
+      "price": 210
     },
     {
       "abr": "overalls",
@@ -10462,7 +10462,7 @@
       "abr": "petbowl",
       "category": "Furniture",
       "defname": "ED_PetBowl",
-      "price": -10
+      "price": 34
     },
     {
       "abr": "pew",
@@ -10534,7 +10534,7 @@
       "abr": "pillar",
       "category": "Art",
       "defname": "VFE_Pillar",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "pillow",
@@ -10564,7 +10564,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": 4
+      "price": 14
     },
     {
       "abr": "plantpot",
@@ -10618,7 +10618,7 @@
       "abr": "platehelmet",
       "category": "Headgear",
       "defname": "VAE_Apparel_PlateHelmet",
-      "price": -10
+      "price": 207
     },
     {
       "abr": "plateshoulderpads",
@@ -10660,7 +10660,7 @@
       "abr": "plinth",
       "category": "Art",
       "defname": "VFE_Plinth",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "plumbing",
@@ -10792,7 +10792,7 @@
       "abr": "pottery",
       "category": "Art",
       "defname": "VFE_Pottery",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "powerarm",
@@ -10978,7 +10978,7 @@
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": -10
+      "price": 1125
     },
     {
       "abr": "psychicdroner",
@@ -10996,7 +10996,7 @@
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsychicFoilHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "psychicharmonizer",
@@ -11032,7 +11032,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "psychicsuppressor",
@@ -12322,7 +12322,7 @@
       "abr": "relief",
       "category": "Art",
       "defname": "VFE_Relief",
-      "price": -10
+      "price": 1983
     },
     {
       "abr": "reliquary",
@@ -12580,7 +12580,7 @@
       "abr": "ritualmask",
       "category": "Headgear",
       "defname": "Apparel_CultistMask",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "robe",
@@ -12928,7 +12928,7 @@
       "abr": "scarf",
       "category": "Headgear",
       "defname": "VAE_Headgear_Scarf",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "schematic",
@@ -13048,7 +13048,7 @@
       "abr": "shadecone",
       "category": "Headgear",
       "defname": "Apparel_Shadecone",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "shard",
@@ -13288,7 +13288,7 @@
       "abr": "simplebed",
       "category": "Furniture",
       "defname": "Bed_Simple",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "simplecocktail",
@@ -13498,7 +13498,7 @@
       "abr": "skullcap",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_Skullcap",
-      "price": -10
+      "price": 57
     },
     {
       "abr": "skullspike",
@@ -13606,7 +13606,7 @@
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "sleepaccelerator",
@@ -13630,7 +13630,7 @@
       "abr": "slicecap",
       "category": "Headgear",
       "defname": "Apparel_Slicecap",
-      "price": -10
+      "price": 62
     },
     {
       "abr": "sling",
@@ -13684,7 +13684,7 @@
       "abr": "smallimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "smallinfernospewer",
@@ -13720,13 +13720,13 @@
       "abr": "smallrug",
       "category": "Art",
       "defname": "VFE_RugSmall",
-      "price": -10
+      "price": 184
     },
     {
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "smallshelf",
@@ -13744,7 +13744,7 @@
       "abr": "smallstatue",
       "category": "Art",
       "defname": "VFE_StatueSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "smallstele",
@@ -13882,7 +13882,7 @@
       "abr": "sombrero",
       "category": "Headgear",
       "defname": "VFES_Headgear_Sombrero",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "spacercondensator",
@@ -13900,7 +13900,7 @@
       "abr": "spacerlamp",
       "category": "Furniture",
       "defname": "Light_SpacerLamp",
-      "price": -10
+      "price": 210
     },
     {
       "abr": "spacerlathe",
@@ -13954,7 +13954,7 @@
       "abr": "spices",
       "category": "Condiments",
       "defname": "VCE_RawSpices",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "spidercat",
@@ -13996,7 +13996,7 @@
       "abr": "spikedskullcap",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_SpikedSkullcap",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "sprinkler",
@@ -14116,7 +14116,7 @@
       "abr": "stelliccrown",
       "category": "Headgear",
       "defname": "Apparel_CrownStellic",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "stellicmeditationthrone",
@@ -14290,7 +14290,7 @@
       "abr": "sugar",
       "category": "Condiments",
       "defname": "VCE_RawSugar",
-      "price": -10
+      "price": 19
     },
     {
       "abr": "suitjacket",
@@ -14374,7 +14374,7 @@
       "abr": "surgicalmask",
       "category": "Headgear",
       "defname": "VAE_Headgear_SurgicalMask",
-      "price": -10
+      "price": 128
     },
     {
       "abr": "surveillanceconsole",
@@ -14560,7 +14560,7 @@
       "abr": "tailcap",
       "category": "Headgear",
       "defname": "Apparel_Tailcap",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "tailorcabinet",
@@ -14806,7 +14806,7 @@
       "abr": "terrorsculpture",
       "category": "Art",
       "defname": "SculptureTerror",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "teslagun",
@@ -15118,7 +15118,7 @@
       "abr": "tophat",
       "category": "Headgear",
       "defname": "Apparel_HatTop",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "torchlamp",
@@ -15154,7 +15154,7 @@
       "abr": "torturecrown",
       "category": "Headgear",
       "defname": "Apparel_TortureCrown",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "totemicslab(broad)",
@@ -15340,7 +15340,7 @@
       "abr": "tribalheaddress",
       "category": "Headgear",
       "defname": "Apparel_TribalHeaddress",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "tribalkilt",
@@ -15418,7 +15418,7 @@
       "abr": "tuque",
       "category": "Headgear",
       "defname": "Apparel_Tuque",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "turkey",
@@ -15640,7 +15640,7 @@
       "abr": "veil",
       "category": "Headgear",
       "defname": "Apparel_WarVeil",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "venison",
@@ -15688,7 +15688,7 @@
       "abr": "visagemask",
       "category": "Headgear",
       "defname": "Apparel_VisageMask",
-      "price": -10
+      "price": 62
     },
     {
       "abr": "vitalsmonitor",
@@ -15718,7 +15718,7 @@
       "abr": "voidsculpture",
       "category": "Art",
       "defname": "VoidSculpture",
-      "price": -10
+      "price": 201
     },
     {
       "abr": "voidsightserum",
@@ -15832,7 +15832,7 @@
       "abr": "warmask",
       "category": "Headgear",
       "defname": "Apparel_WarMask",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "wartribalwear",
@@ -16234,7 +16234,7 @@
       "abr": "widehat",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_WideHat",
-      "price": -10
+      "price": 126
     },
     {
       "abr": "wildboar",
@@ -16426,7 +16426,7 @@
       "abr": "wreath",
       "category": "Headgear",
       "defname": "VFEC_Wreath",
-      "price": -10
+      "price": 215
     },
     {
       "abr": "writerstable",
@@ -16534,13 +16534,13 @@
       "abr": "pedestal",
       "category": "Furniture",
       "defname": "DisplayFurniture_Pedestal",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "plinth",
       "category": "Furniture",
       "defname": "DisplayFurniture_Plinth",
-      "price": -10
+      "price": 179
     },
     {
       "abr": "alyssumtrimings",
@@ -16654,7 +16654,7 @@
       "abr": "mealtrayrack",
       "category": "Furniture",
       "defname": "LWM_MealRack",
-      "price": -10
+      "price": 255
     },
     {
       "abr": "meathook",
@@ -17615,7 +17615,151 @@
       "category": "Furniture",
       "defname": "AM_Urn",
       "price": -10
+    },
+    {
+      "abr": "arm",
+      "category": "Natural",
+      "defname": "QE_Organ_Arm",
+      "price": 333
+    },
+    {
+      "abr": "brainscantemplate",
+      "category": "Items",
+      "defname": "QE_BrainScannerFilled",
+      "price": 167
+    },
+    {
+      "abr": "brainscanner",
+      "category": "Manufactured",
+      "defname": "QE_BrainScanner",
+      "price": 167
+    },
+    {
+      "abr": "clonevat",
+      "category": "Production",
+      "defname": "QE_PawnVat",
+      "price": 3592
+    },
+    {
+      "abr": "ear",
+      "category": "Natural",
+      "defname": "QE_Organ_Ear",
+      "price": 167
+    },
+    {
+      "abr": "eye",
+      "category": "Natural",
+      "defname": "QE_Organ_Eye",
+      "price": 500
+    },
+    {
+      "abr": "foot",
+      "category": "Natural",
+      "defname": "QE_Organ_Foot",
+      "price": 167
+    },
+    {
+      "abr": "genomesequencetemplate",
+      "category": "Items",
+      "defname": "QE_GenomeSequencerFilled",
+      "price": 167
+    },
+    {
+      "abr": "genomesequencer",
+      "category": "Manufactured",
+      "defname": "QE_GenomeSequencer",
+      "price": 167
+    },
+    {
+      "abr": "hand",
+      "category": "Natural",
+      "defname": "QE_Organ_Hand",
+      "price": 167
+    },
+    {
+      "abr": "jaw",
+      "category": "Natural",
+      "defname": "QE_Organ_Jaw",
+      "price": 167
+    },
+    {
+      "abr": "leg",
+      "category": "Natural",
+      "defname": "QE_Organ_Leg",
+      "price": 333
+    },
+    {
+      "abr": "nervestaples",
+      "category": "Bionic",
+      "defname": "QE_NerveStaple",
+      "price": 500
+    },
+    {
+      "abr": "nose",
+      "category": "Natural",
+      "defname": "QE_Organ_Nose",
+      "price": 167
+    },
+    {
+      "abr": "nutrientsolution",
+      "category": "Manufactured",
+      "defname": "QE_NutrientSolution",
+      "price": 3
+    },
+    {
+      "abr": "organvat",
+      "category": "Production",
+      "defname": "QE_Building_OrganVat",
+      "price": 1075
+    },
+    {
+      "abr": "organvat(legacy)",
+      "category": "Production",
+      "defname": "QE_OrganVat",
+      "price": 1075
+    },
+    {
+      "abr": "pelvis",
+      "category": "Natural",
+      "defname": "QE_Organ_Pelvis",
+      "price": 333
+    },
+    {
+      "abr": "proteinmash",
+      "category": "Manufactured",
+      "defname": "QE_ProteinMash",
+      "price": 3
+    },
+    {
+      "abr": "spine",
+      "category": "Natural",
+      "defname": "QE_Organ_Spine",
+      "price": 500
+    },
+    {
+      "abr": "stomach",
+      "category": "Natural",
+      "defname": "QE_Organ_Stomach",
+      "price": 667
+    },
+    {
+      "abr": "syntheticmeat",
+      "category": "Meat",
+      "defname": "Meat_QESynthMeat",
+      "price": 2
+    },
+    {
+      "abr": "tongue",
+      "category": "Natural",
+      "defname": "QE_Organ_Tongue",
+      "price": 167
+    },
+    {
+      "abr": "shortwall",
+      "category": "Misc",
+      "defname": "VFEP_ShortWalls",
+      "price": 14
     }
   ],
-  "total": 2936
+  "total": 2960
 }
