@@ -1,5 +1,11 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+350afc454b4f794a613c562877690c2fe8a66670"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -10,6 +16,18 @@
     "name": "BetterLoading",
     "steamId": "1999454301",
     "version": "3.5.0.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.6.2.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -57,7 +75,7 @@
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "3.0.8894.26660"
+    "version": "3.0.8904.34012"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -216,16 +234,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "3.0.4.0"
-  },
-  {
-    "author": "MattTheWaz and Reiquard",
-    "name": "CaravanColonistInfo",
-    "steamId": "2252000148",
-    "version": "1.0.0.0"
+    "author": "Torann",
+    "name": "CaravanOptions",
+    "steamId": "1501729394",
+    "version": "1.2.0.0"
   },
   {
     "author": "Dubwise",
@@ -324,6 +336,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
+  },
+  {
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
@@ -414,6 +432,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
     "author": "Smuffle and OMGSplat",
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
@@ -424,18 +448,6 @@
     "name": "Heat Map (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospital",
-    "steamId": "2992224079",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "AmCh and Missionz3r0",
-    "name": "Improved Need Indicator",
-    "steamId": "3211635205",
-    "version": "1.0.0"
   },
   {
     "author": "Murmur",
@@ -564,6 +576,24 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scorpio",
+    "name": "Optimization: Leathers - C# Edition",
+    "steamId": "2591816333",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Optimization: Meats - C# Edition",
+    "steamId": "2542931556",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "marcin212",
     "name": "Architect Icons",
     "steamId": "1195427067",
@@ -628,18 +658,6 @@
     "name": "Raid and Event Manager",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
   },
   {
     "author": "Helixien",
@@ -708,12 +726,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Recipe icons (Continued)",
-    "steamId": "2904906618",
-    "version": "1.5.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Relations Tab",
     "steamId": "709317151",
@@ -766,6 +778,12 @@
     "name": "Self Dyeing",
     "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BustedPretex",
+    "name": "Show Buildable Material Count",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lanilor and Proxyer",
@@ -840,12 +858,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Shenanigans",
-    "name": "Tech Tattoos",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
@@ -906,36 +918,6 @@
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Garden Medicine",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Erin and Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Endangered",
-    "steamId": "2366589898",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Erin",
-    "name": "Vanilla Animals Expanded — Royal Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
-    "name": "Vanilla Animals Expanded — Waste Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
     "steamId": null,
@@ -950,24 +932,6 @@
   {
     "author": "Neronix17",
     "name": "Vanilla Beards Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": "2186560858",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
   },
@@ -1044,12 +1008,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and xrushha",
-    "name": "Vanilla Ideology Expanded - Hats and Rags",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Ideology Expanded - Icons and Symbols",
     "steamId": null,
@@ -1082,30 +1040,6 @@
   {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Persona Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Aspen",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - Mushrooms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
     "version": null
   },
@@ -1146,12 +1080,6 @@
     "version": "1.0.8853.29490"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Sarg Bjornson and xrushha",
     "name": "Vanilla Recycling Expanded",
     "steamId": null,
@@ -1174,12 +1102,6 @@
     "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -1208,18 +1130,6 @@
   {
     "author": "Oskar Potocki, Luizi and xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and SmashPhil",
-    "name": "Vanilla Weapons Expanded - Makeshift",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
     "version": null
   },
@@ -1266,21 +1176,15 @@
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "Yayo's Animation (Continued)",
-    "steamId": "2877292196",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Caravan (Continued)",
-    "steamId": "2886919774",
-    "version": "1.5.0"
-  },
-  {
     "author": "none",
     "name": "[CAT] Show Hair With Hats or Hide All Hats",
     "steamId": "2879080074",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
     "version": "1.0.0.0"
   },
   {
@@ -1350,8 +1254,14 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
+    "author": "Helixien",
+    "name": "ReGrowth: Aspen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },

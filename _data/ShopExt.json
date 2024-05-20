@@ -1061,7 +1061,7 @@
       "name": "teetotaler"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1719,7 +1719,7 @@
       "name": "super-immune"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -1959,8 +1959,8 @@
       "name": "warcasket"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -3543,7 +3543,7 @@
       "name": "thinskinned"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
